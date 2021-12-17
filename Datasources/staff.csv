@@ -1,0 +1,3 @@
+EmployeeId;Fname;Mname;Lname;NationalD;Contacts;Title;DateEmployed;Department;Designation;Email;Status;JobGroup;AccountNumber;BankName;BankBranch;KRAPin;NSSF;NHIF;Category
+1;MELLEN;N;NYABERI;1;0713915303;Ms;2017-01-02;Teaching;Teacher;;\N;\N;\N;\N;\N;\N;\N;\N;\N
+7;NANCY;;MESOCHO;2;;Ms;2019-01-23;Teaching;TEACHER;;\N;\N;\N;\N;\N;\N;\N;\N;\N

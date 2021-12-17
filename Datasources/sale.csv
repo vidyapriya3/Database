@@ -1,0 +1,2119 @@
+ID;TransactionNo;ItemName;CREATE_DATE;SETTLED;BuyingPrice;SellingPrice;Units;STATUS;TICKET_TYPE;SHIFT_ID;OWNER_ID;TERMINAL_ID;tax;SaleType;Customer;Discount
+186;5;big ball;2020-04-03 07:20:08;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+187;6;kitchen small Knives;2020-04-03 07:26:02;Yes;80.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+189;8;proffesional;2020-04-03 07:35:15;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+190;9;big ball;2020-04-03 07:38:50;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+191;10;Line plate;2020-04-03 07:44:07;Yes;125.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+192;11;hand bag;2020-04-03 07:46:12;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+193;12;hand bag;2020-04-03 07:48:13;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+194;13;soft throw;2020-04-03 07:52:44;Yes;550.00;1000.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+195;14;tenniss;2020-04-03 08:06:47;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+196;15;Serviet holder uniq;2020-04-04 01:53:54;Yes;400.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+197;16;Skimmers ;2020-04-04 01:58:33;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+199;17;Tea_un 15litre;2020-04-04 04:18:16;Yes;6300.00;7500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+202;19;kenstar small;2020-04-04 08:00:32;Yes;30.00;55.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+203;20;big ball;2020-04-04 08:30:48;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+204;21;medium ball;2020-04-05 03:35:06;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+205;22;Water gunsbig;2020-04-05 03:39:56;Yes;50.00;80.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+206;23;redberry medium;2020-04-05 05:21:52;Yes;600.00;700.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+207;23;sinia smallstainless;2020-04-05 05:21:53;Yes;120.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+208;24;tenniss;2020-04-05 05:50:10;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+209;24;salt shaker;2020-04-05 05:50:10;Yes;60.00;80.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+210;25;big ball;2020-04-05 05:52:20;Yes;200.00;300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+211;26;big ball;2020-04-05 05:53:26;Yes;200.00;300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+212;27;big ball;2020-04-05 05:53:44;Yes;200.00;300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+213;27;medium ball;2020-04-05 05:53:44;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+214;28;Odinary smallthermos;2020-04-05 07:30:50;Yes;290.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+215;29;OK cup;2020-04-06 03:07:08;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+216;30;face;2020-04-06 03:08:48;Yes;16.00;30.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+217;31;bowls with lid;2020-04-06 04:41:34;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+218;32;Small Bottle;2020-04-06 05:23:49;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+219;33;Feeding stainless;2020-04-07 02:43:55;Yes;9.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+220;34;medium ball;2020-04-07 04:28:29;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+221;35;girls;2020-04-07 04:56:45;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+222;36;medium ball;2020-04-07 05:46:39;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+223;37;medium ball;2020-04-07 06:18:56;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+224;38;big ball;2020-04-07 08:19:33;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+225;39;Stainless Kettle;2020-04-08 00:07:16;No;1300.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+226;40;medium ball;2020-04-08 01:48:49;No;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+227;41;7 litres;2020-04-08 03:25:26;Yes;2500.00;3300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+228;42;glass;2020-04-08 03:28:13;Yes;100.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+229;43;Trident hotpot;2020-04-08 04:23:47;Yes;2300.00;3000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+230;44;kitchen mediumknife;2020-04-08 08:21:12;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+232;45;Serving spoon;2020-04-08 08:22:35;Yes;70.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+233;46;buckets;2020-04-08 08:23:33;No;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+234;47;Speed car;2020-04-09 01:00:13;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+235;48;Sunflower;2020-04-09 01:02:21;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+237;50;Shocky;2020-04-09 03:06:24;Yes;183.00;250.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+238;51;Butcher Knife;2020-04-09 03:48:35;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+239;52; lids small ;2020-04-09 06:16:02;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+240;53;big ball;2020-04-11 02:11:57;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+241;54;tenniss;2020-04-11 02:12:56;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+242;55;tenniss;2020-04-11 04:24:10;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+243;56;Spoon holder;2020-04-11 05:36:52;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+244;57;big ball;2020-04-14 07:32:52;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+245;57;medium ball;2020-04-14 07:32:52;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+246;58;net patterned;2020-04-15 02:55:04;Yes;180.00;200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+247;59;11 litre Pcooker;2020-04-15 04:53:54;Yes;2800.00;3800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+248;59;Stainless Kettle;2020-04-15 04:53:54;Yes;1300.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+249;59;light water;2020-04-15 04:53:54;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+250;59;Serviet holder big;2020-04-15 04:53:54;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+251;60;Odinary smallthermos;2020-04-15 05:25:06;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+252;61;sports;2020-04-15 07:50:52;Yes;50.00;70.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+253;61;hand bag;2020-04-15 07:50:52;Yes;250.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+254;62;Odinary smallthermos;2020-04-15 07:51:53;Yes;290.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+256;64;grill ;2020-04-17 04:25:49;Yes;3000.00;4000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+257;65;Shocky;2020-04-17 04:28:28;Yes;183.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+258;66;Odinary bigthermos;2020-04-17 06:35:19;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+259;67;sticker hanger;2020-04-17 08:07:39;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+260;68;stainless big;2020-04-17 08:10:02;Yes;700.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+261;69;Plastic Gratersmall;2020-04-18 01:34:08;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+262;70;Line plate;2020-04-18 03:35:59;Yes;125.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+263;70;OK cup;2020-04-18 03:35:59;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+264;71;medium ball;2020-04-18 03:40:17;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+265;72;6506;2020-04-18 08:12:43;Yes;80.00;120.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+267;73;stainless big;2020-04-19 04:27:47;Yes;700.00;750.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+268;74;Water gunsmall;2020-04-19 07:54:15;Yes;20.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+269;75;Odinary smallthermos;2020-04-20 02:30:03;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+270;76;tenniss;2020-04-20 04:38:00;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+271;77;big ball;2020-04-20 07:42:56;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+272;78;big ball;2020-04-21 04:10:19;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+273;79;Butcher Knife;2020-04-21 04:44:01;Yes;200.00;300.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+274;79;big ball;2020-04-21 04:44:02;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+275;80;medium ball;2020-04-21 05:55:55;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+276;81;bandana;2020-04-21 23:59:26;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+277;82;Signature;2020-04-22 00:03:26;Yes;500.00;840.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+278;83;monkey medium;2020-04-22 00:04:47;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+279;84;big salt;2020-04-22 06:33:42;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+280;85;Odinary bigthermos;2020-04-23 01:55:53;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+281;85;tenniss;2020-04-23 01:55:53;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+282;86;umb big;2020-04-23 01:57:12;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+283;86;small convert;2020-04-23 01:57:12;Yes;200.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+284;87;umb big;2020-04-23 04:45:30;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+285;88;rolling pin;2020-04-23 05:02:04;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+286;88;spiral big;2020-04-23 05:02:04;Yes;180.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+287;88;spiral small bowl;2020-04-23 05:02:05;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+288;88;non stick pro;2020-04-23 05:02:05;Yes;1200.00;1500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+289;88;chapati;2020-04-23 05:02:05;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+290;89;Serving Mella;2020-04-23 05:04:53;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+291;89;Cup thermos;2020-04-23 05:04:53;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+292;90;face;2020-04-24 02:11:42;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+293;91;umb big;2020-04-24 03:17:13;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+294;92;medium ball;2020-04-24 05:00:57;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+295;93;medium ball;2020-04-24 06:28:03;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+296;94;Tea_un 7litre;2020-04-25 02:19:21;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+297;94;Skimmers ;2020-04-25 02:19:21;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+298;95;6507;2020-04-25 05:31:59;Yes;80.00;120.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+299;96;Spoon holder;2020-04-25 05:36:08;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+300;97;grill ;2020-04-25 05:58:57;Yes;3000.00;4000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+301;97;glass sets;2020-04-25 05:58:57;Yes;1200.00;1700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+302;97;glass 2;2020-04-25 05:58:57;Yes;800.00;1300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+303;98;kids;2020-04-26 07:26:09;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+304;99;Regal 2l thermos;2020-04-27 01:47:29;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+305;100;spiral small bowl;2020-04-27 01:48:08;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+306;101;big ball;2020-04-27 04:44:51;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+307;101;tribal;2020-04-27 04:44:51;Yes;300.00;500.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+308;102;Odinary bigthermos;2020-04-27 05:55:45;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+309;103;Sugar dish small;2020-04-27 06:04:32;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+311;103; lids big;2020-04-27 06:04:32;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+312;104;Odinary smallthermos;2020-04-27 06:05:44;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+313;105;sticker hanger;2020-04-27 06:08:18;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+314;106;Serviet holder small;2020-04-27 08:26:29;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+315;107;Redberry;2020-04-27 08:36:06;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+316;108;Feeding kzh;2020-04-28 03:00:31;Yes;10.00;20.00;36;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+317;109;sinia smallstainless;2020-04-28 03:06:16;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+318;109;small;2020-04-28 03:06:16;Yes;190.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+319;110;small ugali;2020-04-28 03:07:16;Yes;650.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+320;111;light water;2020-04-28 06:42:24;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+322;113;plastic;2020-04-29 07:13:44;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+323;114;clear;2020-04-29 08:21:40;Yes;160.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+324;115;Odinary bigthermos;2020-04-30 04:14:00;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+325;116;stone ;2020-05-01 03:07:06;Yes;180.00;200.00;30;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+326;117;tribal;2020-05-01 03:10:21;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+327;118;tenniss;2020-05-01 08:19:08;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+328;119;chapati;2020-05-02 01:16:13;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+329;119;rolling pin;2020-05-02 01:16:13;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+330;120;Butcher Knife;2020-05-02 05:46:50;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+331;121; men socks;2020-05-02 08:00:34;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+332;122;marvin;2020-05-02 08:01:41;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+333;123;rolling pin;2020-05-02 08:25:40;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+334;123;chapati;2020-05-02 08:25:40;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+335;124;face;2020-05-03 04:17:40;Yes;16.00;30.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+336;125;proffesional;2020-05-03 04:19:46;Yes;250.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+337;126;Stainless thermos;2020-05-03 06:38:46;Yes;800.00;1100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+338;127;Water gunsbig;2020-05-03 06:39:43;Yes;50.00;80.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+339;128;Trumpets;2020-05-03 06:40:51;Yes;40.00;70.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+340;129;tenniss;2020-05-03 06:45:38;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+341;130;sundabest big;2020-05-03 06:56:15;Yes;380.00;480.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+342;131;regal 3ltrs;2020-05-03 07:09:43;Yes;1800.00;2500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+343;132;Odinary smallthermos;2020-05-03 08:29:16;Yes;290.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+344;133;Smal stainles Grater;2020-05-04 02:54:29;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+345;133;plastic;2020-05-04 02:54:29;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+346;134;sticker hanger;2020-05-04 03:12:01;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+347;135;kaulo Kettle;2020-05-04 03:16:25;Yes;550.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+348;136;Serviet holder uniq;2020-05-04 03:22:01;Yes;400.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+349;137;Regal 2l thermos;2020-05-04 03:57:31;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+350;138;mella ;2020-05-04 06:11:44;Yes;80.00;100.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+351;139;Odinary smallthermos;2020-05-04 07:58:44;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+352;140;rolling pin;2020-05-05 06:24:49;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+353;141;Sieves kichungi;2020-05-06 00:19:31;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+354;142;bandana;2020-05-06 02:25:51;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+355;143;sinia smallstainless;2020-05-06 03:53:16;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+357;145;tribal;2020-05-06 04:40:12;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+358;146;OK cup;2020-05-06 04:43:37;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+359;147;umb 35;2020-05-06 04:52:47;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+362;150;umb 18;2020-05-06 07:35:57;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+363;151;soft throw;2020-05-06 08:41:40;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+364;152;gift pack;2020-05-07 04:24:46;Yes;100.00;125.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+365;153;signature 3 in 1;2020-05-07 05:50:04;Yes;3000.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+366;154;tenniss;2020-05-07 05:50:41;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+367;155;rainbow umbrella;2020-05-07 07:42:03;Yes;230.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+368;156;Kaijin Knives ;2020-05-08 02:25:51;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+369;157;deco cup;2020-05-08 04:41:05;Yes;55.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+370;158; men socks;2020-05-08 04:42:08;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+371;159;tenniss;2020-05-08 05:57:04;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+372;159;Water gunsmall;2020-05-08 05:57:04;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+373;160;stainless big;2020-05-08 05:59:57;Yes;700.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+374;161;umb 18;2020-05-08 06:23:04;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+376;163;Butcher Knife;2020-05-09 03:23:32;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+377;164;Butcher Knife;2020-05-09 03:23:54;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+378;165;Butcher Knife;2020-05-09 03:33:57;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+379;166;Sugar dish small;2020-05-09 08:24:02;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+380;166;kid bungle;2020-05-09 08:24:02;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+381;167;kid bungle;2020-05-10 04:15:52;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+382;168;kid bungle;2020-05-10 04:16:16;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+383;169;kid bungle;2020-05-10 04:16:32;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+385;170;Water gunsbig;2020-05-10 05:28:09;Yes;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+386;171;sundabest big;2020-05-10 06:11:10;Yes;380.00;480.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+387;172;ear rings 7;2020-05-10 08:16:46;Yes;5.00;20.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+388;173;kitchen mediumknife;2020-05-11 01:29:41;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+389;174;umb 18;2020-05-11 01:51:43;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+390;175;Lyons Kettle;2020-05-11 06:49:15;Yes;800.00;1200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+391;176;Tea_un 7litre;2020-05-11 07:01:27;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+392;177;Stainless cutleryset;2020-05-11 07:16:52;Yes;800.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+393;177;big lid cup;2020-05-11 07:16:52;Yes;210.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+394;178;Tea_un 9litre;2020-05-12 01:55:46;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+395;179;bandana;2020-05-12 02:03:34;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+396;180;metal bowl;2020-05-12 02:04:33;Yes;20.00;40.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+397;181;Regal 2l thermos;2020-05-12 06:18:15;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+401;183;Odinary smallthermos;2020-05-12 06:41:59;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+402;184;kid bungle;2020-05-12 07:34:18;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+403;185;marvin;2020-05-12 07:46:53;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+404;186;Odinary bigthermos;2020-05-13 03:19:58;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+405;187;Sugar dish small;2020-05-13 04:36:10;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+406;187;sundabest small;2020-05-13 04:36:10;Yes;300.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+407;188;assorted cups;2020-05-13 04:55:05;Yes;150.00;180.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+408;188;big dinner ;2020-05-13 04:55:05;Yes;230.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+409;189;Stainless Kettle;2020-05-13 05:04:24;Yes;1300.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+410;190;Redberry;2020-05-13 05:19:34;Yes;450.00;600.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+411;190;drawing board;2020-05-13 05:19:34;Yes;100.00;250.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+412;190; lids small ;2020-05-13 05:19:34;Yes;60.00;100.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+413;191;umb 18;2020-05-14 04:15:06;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+414;191;big lid cup;2020-05-14 04:15:06;Yes;210.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+415;191;net patterned;2020-05-14 04:15:06;Yes;180.00;200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+416;192;hand bag;2020-05-14 04:16:02;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+417;193;Dog Chuchu;2020-05-14 08:13:59;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+418;194;Feeding stainless;2020-05-15 05:42:29;Yes;9.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+419;195;feeding forks;2020-05-15 06:10:09;Yes;8.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+420;196;alladin set;2020-05-16 08:23:44;Yes;1000.00;1500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+421;197;big ball;2020-05-16 08:28:11;Yes;200.00;300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+422;198;Masks;2020-05-16 08:30:25;Yes;10.00;20.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+423;199;Masks;2020-05-17 04:14:11;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+424;200;bandana;2020-05-17 05:23:39;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+425;201;tenniss;2020-05-17 07:30:01;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+426;202;Masks;2020-05-17 07:56:59;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+427;203;Feeding kzh;2020-05-18 01:35:58;Yes;10.00;20.00;24;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+428;203;belts;2020-05-18 01:35:58;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+429;204;Masks;2020-05-18 01:36:42;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+430;205;Watches;2020-05-18 01:54:30;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+431;206;soft throw;2020-05-18 02:23:41;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+432;207; men socks;2020-05-18 04:22:00;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+433;208;net patterned;2020-05-18 08:01:05;Yes;180.00;200.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+434;209;Masks;2020-05-18 08:14:19;Yes;10.00;20.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+435;210;marvin;2020-05-19 03:46:00;Yes;100.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+436;211;glass sets;2020-05-19 04:23:26;Yes;1200.00;1700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+437;212;umb 18;2020-05-19 04:46:24;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+438;213;Royalcandy sdish;2020-05-19 08:28:01;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+439;213;plastic jug;2020-05-19 08:28:01;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+440;214;tenniss;2020-05-19 08:41:19;Yes;30.00;50.00;3;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+441;215;6507;2020-05-20 01:46:23;Yes;80.00;120.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+442;215;plastic jug;2020-05-20 01:46:23;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+443;216;Sieves kichungi;2020-05-21 02:41:27;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+444;217;grill ;2020-05-21 05:01:19;Yes;3000.00;4000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+445;217;piano;2020-05-21 05:01:19;Yes;220.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+446;218;mabati;2020-05-22 03:00:39;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+447;219;Kaijin Knives ;2020-05-22 06:48:53;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+448;220;Dog Chuchu;2020-05-22 07:08:27;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+449;221;Watches;2020-05-22 23:47:28;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+450;222;3 in one blender;2020-05-23 05:19:38;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+451;223;tenniss;2020-05-24 03:29:50;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+452;224;tenniss;2020-05-24 03:38:48;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+454;225;Odinary smallthermos;2020-05-25 03:56:44;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+455;226;signature dotted;2020-05-25 04:01:58;Yes;208.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+456;226;redberry soup;2020-05-25 04:01:58;Yes;141.00;183.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+457;226;net patterned;2020-05-25 04:01:58;Yes;180.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+458;227;medium ball;2020-05-26 04:10:55;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+459;228;tenniss;2020-05-26 05:22:38;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+460;229;Meat Fork;2020-05-26 05:30:38;Yes;70.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+461;230;Butcher Knife;2020-05-27 07:03:07;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+462;231;umb 35;2020-05-27 07:55:07;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+463;232;tenniss;2020-05-27 08:02:48;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+464;233;tenniss;2020-05-28 02:28:51;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+465;234;umb 35;2020-05-28 03:22:01;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+466;235;tribal;2020-05-28 03:56:02;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+467;236;0.5l thermos;2020-05-28 08:06:54;Yes;500.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+468;236;kid bungle;2020-05-28 08:06:54;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+469;237;Masks;2020-05-28 08:07:41;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+471;239;Tea_un 7litre;2020-05-29 05:55:27;Yes;1500.00;2000.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+473;241;Odinary smallthermos;2020-05-29 07:34:23;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+474;242;big ball;2020-05-30 00:50:11;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+475;243;tenniss;2020-05-30 01:24:31;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+477;245;tenniss;2020-05-30 04:16:27;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+479;247;stainless small;2020-05-30 04:21:13;Yes;650.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+480;248;bandana;2020-05-30 08:26:16;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+481;249;wall ;2020-05-31 02:15:10;Yes;150.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+482;250;tenniss;2020-05-31 06:33:18;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+483;251;medium ball;2020-05-31 06:49:08;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+484;252;Water gunsmall;2020-05-31 07:16:12;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+485;253;Water gunsmall;2020-05-31 07:37:31;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+486;254;Luminac;2020-05-31 08:02:47;Yes;185.00;250.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+487;255;spiral small;2020-06-01 01:38:19;Yes;125.00;167.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+488;255;spiral small bowl;2020-06-01 01:38:19;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+490;257;sport men socks;2020-06-01 03:28:00;Yes;30.00;70.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+491;258;medium ball;2020-06-01 06:26:44;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+493;260;tenniss;2020-06-02 03:38:02;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+495;262;teaun 5.8;2020-06-02 07:35:14;Yes;1700.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+496;263;kid clip;2020-06-02 07:57:11;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+497;264;cc3007;2020-06-03 02:16:59;Yes;41.00;80.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+498;265;Feeding kzh;2020-06-03 02:21:12;Yes;10.00;20.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+499;266;medium ball;2020-06-04 00:17:12;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+501;268;Redberry;2020-06-05 03:55:22;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+502;269;Masks;2020-06-05 03:55:52;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+503;270;sticker hanger;2020-06-05 05:55:55;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+504;271;glass jugs;2020-06-05 06:15:37;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+505;272;Water gunsmall;2020-06-05 06:55:31;Yes;20.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+506;273;big ball;2020-06-05 08:03:24;No;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+507;274;hurra hoops;2020-06-06 01:18:08;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+508;275;big ball;2020-06-06 02:38:55;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+509;276;Kiruri Handle;2020-06-06 03:05:15;Yes;2700.00;3500.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+511;277;purse;2020-06-06 05:30:14;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+512;278;big ball;2020-06-06 06:44:02;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+513;279;face;2020-06-07 02:28:00;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+514;280;0.5l thermos;2020-06-07 02:32:22;Yes;500.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+515;281;tenniss;2020-06-07 03:16:39;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+516;282;monkey big;2020-06-07 03:56:31;Yes;250.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+517;283;hurra hoops;2020-06-07 04:10:09;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+518;284;kenstar small;2020-06-07 06:17:58;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+519;285;Feeding stainless;2020-06-07 06:20:03;Yes;9.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+520;286;umb 30;2020-06-07 06:37:32;Yes;300.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+521;287;2236-9;2020-06-07 08:41:45;Yes;67.00;100.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+522;288;kaulu;2020-06-08 01:40:24;Yes;90.00;120.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+523;289;7 litres;2020-06-08 05:36:12;Yes;2500.00;3300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+524;290;Plastic Gratersmall;2020-06-08 06:32:48;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+525;291;Sugar dish small;2020-06-08 06:42:41;Yes;350.00;500.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+526;292;big ball;2020-06-09 03:36:18;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+527;293;tenniss;2020-06-09 08:19:07;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+528;294;medium ball;2020-06-10 01:25:15;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+529;295;Redberry;2020-06-10 07:36:42;Yes;450.00;600.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+530;295;Royalcandy sdish;2020-06-10 07:36:42;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+531;295;flowered mella;2020-06-10 07:36:42;Yes;33.00;60.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+532;295;Teaspoons;2020-06-10 07:36:42;Yes;60.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+533;295; lids small ;2020-06-10 07:36:42;Yes;60.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+534;295;feeding forks;2020-06-10 07:36:42;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+535;296;Odinary smallthermos;2020-06-11 04:01:37;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+536;297;door;2020-06-11 08:46:24;Yes;350.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+537;298;Redberry  Kettle;2020-06-11 08:50:19;Yes;1500.00;1800.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+538;299;6506;2020-06-12 01:45:16;Yes;80.00;120.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+539;300;Black set;2020-06-12 02:10:33;Yes;4500.00;7500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+540;300;Tea_un 9litre;2020-06-12 02:10:33;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+541;301;face;2020-06-12 02:25:33;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+542;302;mella ;2020-06-12 07:10:30;Yes;80.00;100.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+543;303;arcopal glasses;2020-06-13 03:41:22;Yes;600.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+544;304;wig cap;2020-06-13 09:05:53;Yes;12.00;15.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+545;305;diva plates;2020-06-14 02:26:09;Yes;141.00;183.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+546;306;ear rings 7;2020-06-14 06:07:00;Yes;5.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+547;307;wig cap;2020-06-14 06:08:02;Yes;12.00;15.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+548;308;big ball;2020-06-14 06:16:40;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+550;310;DN;2020-06-14 08:44:30;Yes;91.00;117.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+551;311;tenniss;2020-06-15 03:53:52;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+552;312;plastic grater big;2020-06-15 09:05:17;Yes;150.00;200.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+553;313;tenniss;2020-06-15 09:08:06;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+554;314;hurra hoops;2020-06-16 03:10:07;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+555;315;pearl;2020-06-16 03:56:15;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+556;316;chains;2020-06-16 03:56:41;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+557;317;Odinary bigthermos;2020-06-16 06:08:23;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+558;318;Odinary bigthermos;2020-06-17 00:50:01;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+559;319;tenniss;2020-06-17 07:50:57;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+560;320;regal 3ltrs;2020-06-18 04:53:37;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+561;321;face;2020-06-18 06:53:06;Yes;16.00;30.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+562;322;chains;2020-06-18 09:17:58;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+563;323;big ball;2020-06-19 05:50:28;No;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+564;324;soft throw;2020-06-19 06:25:37;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+565;325;Sieves kichungi;2020-06-19 07:50:05;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+566;325;kichungi small;2020-06-19 07:50:05;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+567;325;Sieves kichungi;2020-06-19 07:50:05;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+568;326;tenniss;2020-06-19 08:46:06;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+569;327;Feeding kzh;2020-06-20 01:35:42;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+570;327;face;2020-06-20 01:35:42;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+571;328;big lid cup;2020-06-20 03:38:44;Yes;210.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+572;329;big lid cup;2020-06-20 04:20:35;Yes;210.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+573;330;face;2020-06-21 02:09:00;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+574;330;medium ball;2020-06-21 02:09:00;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+575;331;Redberry;2020-06-21 03:23:55;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+576;331;feeding forks;2020-06-21 03:23:55;Yes;8.00;20.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+577;331; lids big;2020-06-21 03:23:55;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+578;332;big ball;2020-06-21 03:25:09;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+579;333;Tea_un 9litre;2020-06-21 06:19:29;Yes;1800.00;2500.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+580;334;Odinary smallthermos;2020-06-21 07:02:08;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+581;335;soft throw;2020-06-22 02:21:20;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+582;335;Odinary smallthermos;2020-06-22 02:21:20;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+583;336;Feeding stainless;2020-06-22 02:22:23;Yes;9.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+584;337;tongs;2020-06-22 05:25:02;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+585;338;Feeding kzh;2020-06-22 07:05:48;Yes;10.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+586;339;Odinary bigthermos;2020-06-22 08:25:10;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+587;340;Odinary smallthermos;2020-06-23 03:37:19;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+588;341;tenniss;2020-06-23 03:48:35;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+589;342;marvin;2020-06-23 05:53:46;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+590;343;hurra hoops;2020-06-23 06:10:30;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+591;344;tribal;2020-06-23 06:54:56;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+593;345;plastic jug;2020-06-23 07:21:31;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+594;345;big lid cup;2020-06-23 07:21:31;Yes;210.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+595;345;Spoon holder;2020-06-23 07:21:31;No;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+596;346;hand mixer;2020-06-23 07:38:19;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+597;347;sandwitch maker;2020-06-23 08:39:19;Yes;1700.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+598;348;Paradin big;2020-06-24 05:13:53;Yes;1875.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+599;349; lids big;2020-06-24 06:09:50;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+600;350;Skimmers ;2020-06-24 06:22:19;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+601;351;short servingspoon;2020-06-24 06:32:33;Yes;35.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+602;352;big ball;2020-06-25 03:08:53;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+603;353;tenniss;2020-06-25 05:21:02;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+604;354;Stainless Kettle;2020-06-25 08:30:37;Yes;1300.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+605;355;kenstar cup set;2020-06-26 06:17:23;Yes;300.00;380.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+606;356;3 in one blender;2020-06-26 09:01:00;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+607;357;tenniss;2020-06-27 03:32:36;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+608;358;uteo big;2020-06-27 06:46:06;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+609;359;big ball;2020-06-27 06:57:28;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+610;360;ladies;2020-06-28 01:22:01;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+611;361;safari;2020-06-28 01:36:55;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+612;362;tenniss;2020-06-28 05:48:38;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+613;363;Feeding kzh;2020-06-28 06:44:18;Yes;10.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+615;364;Bucket 11;2020-06-29 07:34:09;Yes;110.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+616;365;kenstar cup set;2020-06-29 07:49:51;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+617;366;brown patterned;2020-06-29 08:24:22;Yes;142.00;184.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+618;367;eurovision;2020-06-30 04:35:46;Yes;67.00;100.00;18;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+619;368;feeding forks;2020-06-30 05:13:15;Yes;8.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+620;369;kenstar big;2020-06-30 07:46:54;Yes;45.00;53.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+621;369;teaun 5.8;2020-06-30 07:46:55;No;1700.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+622;369;Sieves kichungi;2020-06-30 07:46:55;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+623;370;plastic;2020-07-01 03:34:43;Yes;200.00;300.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+624;371;big ball;2020-07-01 05:03:08;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+625;372;Water gunsmall;2020-07-01 07:55:19;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+626;373;clear serrated;2020-07-01 08:49:10;Yes;190.00;240.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+627;374;Water gunsmall;2020-07-01 09:04:58;Yes;20.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+628;375;clear serrated;2020-07-02 02:51:15;Yes;190.00;240.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+629;375;Bucket 11;2020-07-02 02:51:15;Yes;110.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+631;377;big ball;2020-07-02 04:13:15;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+632;378;big ball;2020-07-02 06:21:25;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+633;379;rose kettie;2020-07-02 07:32:59;Yes;900.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+634;380;Kiruri Handle;2020-07-03 01:31:13;Yes;2700.00;3500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+635;381;signature 3 in 1;2020-07-03 05:15:06;Yes;3000.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+636;382;Odinary smallthermos;2020-07-03 05:17:46;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+637;383;hand bag;2020-07-03 07:44:10;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+638;384; men socks;2020-07-03 08:36:23;Yes;30.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+639;385;medium ball;2020-07-04 02:07:26;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+640;386;Plastic Gratersmall;2020-07-04 03:36:44;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+641;386;Odinary smallthermos;2020-07-04 03:36:45;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+642;387;Plastic Gratersmall;2020-07-04 05:50:09;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+643;388;kenstar small;2020-07-04 06:52:52;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+644;389;medium ball;2020-07-04 07:01:01;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+645;390;silver guns;2020-07-04 08:05:49;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+646;391;sport men socks;2020-07-04 08:10:07;No;30.00;70.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+647;392;scrubber;2020-07-05 07:38:12;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+648;393;Sgnature thermos;2020-07-05 08:44:06;Yes;1200.00;1700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+650;394;plastic jug;2020-07-06 00:44:44;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+651;394;salt shaker;2020-07-06 00:44:44;Yes;60.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+652;394;face;2020-07-06 00:44:44;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+653;394;scrubber;2020-07-06 00:44:44;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+654;395;Odinary smallthermos;2020-07-06 00:48:07;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+660;396;mwiko;2020-07-06 00:48:57;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+661;397;tongs;2020-07-06 01:32:21;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+662;397;egg spoon;2020-07-06 01:32:21;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+664;397;kitchen mediumknife;2020-07-06 01:32:21;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+665;398;Tea_un 9litre;2020-07-06 05:48:52;No;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+666;399;grill ;2020-07-06 06:04:52;Yes;3000.00;4000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+667;400;wig cap;2020-07-06 06:10:16;Yes;12.00;15.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+668;401;kichungi small;2020-07-06 09:27:31;Yes;80.00;100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+669;402;Feeding kzh;2020-07-06 09:36:11;Yes;10.00;20.00;3;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+670;403;clear;2020-07-07 03:10:30;Yes;160.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+671;404;kenstar cup set;2020-07-07 04:51:55;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+672;404;non stick;2020-07-07 04:51:55;Yes;600.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+673;405;Butcher Knife;2020-07-07 09:12:48;Yes;200.00;300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+674;405;Meat Fork;2020-07-07 09:12:48;Yes;70.00;250.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+675;406;medium ball;2020-07-08 03:52:17;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+676;407;Stainless thermos;2020-07-09 02:04:03;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+677;408;0.5l thermos;2020-07-09 02:16:54;Yes;500.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+678;408;face;2020-07-09 02:16:54;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+679;409;sticker hanger;2020-07-09 08:52:35;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+680;410;Regal 2l thermos;2020-07-09 23:14:52;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+681;411;marvin;2020-07-10 03:38:09;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+682;412;uteo small;2020-07-11 02:39:03;Yes;130.00;200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+683;413;Odinary smallthermos;2020-07-11 02:39:47;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+684;413;face;2020-07-11 02:39:47;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+685;414;OK cup;2020-07-11 04:38:10;Yes;120.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+686;414;Feeding kzh;2020-07-11 04:38:10;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+687;415;Speed car;2020-07-12 02:32:49;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+688;416;uteo small;2020-07-12 02:54:44;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+689;417;tenniss;2020-07-12 04:10:16;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+690;418;chondo;2020-07-12 04:35:16;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+691;419;loops;2020-07-12 05:57:25;Yes;15.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+692;420;kenstar cup set;2020-07-12 08:10:54;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+693;421;chains;2020-07-12 08:27:20;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+694;422;Regal 2l thermos;2020-07-13 03:27:51;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+695;423;Wall clocksmall;2020-07-13 09:16:55;Yes;600.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+696;424;medium ball;2020-07-14 01:31:29;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+697;424;jumping rope small;2020-07-14 01:31:29;Yes;40.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+698;425;plastic sieve;2020-07-14 04:56:17;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+699;426;plastic sieve;2020-07-14 04:59:02;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+700;426;sport men socks;2020-07-14 04:59:02;Yes;30.00;70.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+701;427;clear;2020-07-14 05:46:27;Yes;160.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+702;428;iron box;2020-07-14 06:59:08;Yes;900.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+703;429;Bucket 11;2020-07-15 00:50:12;Yes;110.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+704;429;bucket 5l;2020-07-15 00:50:12;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+705;430;Stainless Kettle;2020-07-15 06:44:06;No;1300.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+706;430;kaulo Kettle;2020-07-15 06:44:06;Yes;550.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+707;430;350l thermo;2020-07-15 06:44:06;Yes;400.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+708;430;Odinary bigthermos;2020-07-15 06:44:06;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+709;431;Smal stainles Grater;2020-07-15 06:45:43;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+710;431;mwiko;2020-07-15 06:45:43;Yes;20.00;30.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+711;432;medium;2020-07-15 07:39:13;Yes;500.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+712;433;medium;2020-07-15 07:46:32;Yes;500.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+713;434;mwiko;2020-07-15 08:20:19;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+714;435;kenstar cup set;2020-07-16 04:02:05;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+715;436;kichungi small;2020-07-16 05:14:32;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+716;436;plastic jug;2020-07-16 05:14:32;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+717;436;ordinary knife;2020-07-16 05:14:32;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+718;436;short servingspoon;2020-07-16 05:14:32;Yes;35.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+719;437;kichungi small;2020-07-16 05:16:40;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+720;438;big lid cup;2020-07-16 05:37:52;Yes;210.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+721;439;buckets;2020-07-16 05:52:14;No;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+722;440;scrubber;2020-07-16 06:44:02;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+723;441;Dog Chuchu;2020-07-16 09:25:47;Yes;150.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+724;442;Sieves kichungi;2020-07-17 03:09:42;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+725;443;Signature;2020-07-17 04:22:54;Yes;500.00;840.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+726;444;OK cup;2020-07-17 05:02:52;Yes;120.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+727;445;unbreakable small;2020-07-17 05:41:49;Yes;84.00;130.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+728;445;22010;2020-07-17 05:41:49;Yes;100.00;150.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+729;445;Spoon holder;2020-07-17 05:41:49;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+730;445;scrubber;2020-07-17 05:41:50;Yes;30.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+731;446;table cover big;2020-07-17 06:10:29;Yes;130.00;180.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+732;447;ordinary knife;2020-07-17 06:11:15;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+733;448;feeding forks;2020-07-17 08:00:54;Yes;8.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+734;448;Mella mediumltray;2020-07-17 08:00:54;Yes;250.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+735;449;loops;2020-07-17 09:37:08;Yes;15.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+736;450;tenniss;2020-07-18 04:37:07;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+737;451;Chopper;2020-07-18 04:37:38;Yes;500.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+738;452;scrubber;2020-07-18 05:41:13;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+739;453;Dog Chuchu;2020-07-18 06:00:51;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+740;453;tenniss;2020-07-18 06:00:51;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+741;454;medium;2020-07-18 07:10:54;Yes;500.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+742;455;Bucket 16;2020-07-18 08:43:54;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+743;456;silver guns;2020-07-18 09:05:37;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+744;456;Water gunsmall;2020-07-18 09:05:37;Yes;20.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+745;457;tenniss;2020-07-18 09:29:36;No;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+746;458;Jumping rope biggest;2020-07-19 05:39:47;Yes;70.00;200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+747;459;Feeding stainless;2020-07-19 06:54:06;Yes;9.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+748;460;kenstar small;2020-07-19 06:56:13;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+749;460;Sieves kichungi;2020-07-19 06:56:13;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+750;461;kenstar cup set;2020-07-19 08:22:01;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+751;462;Odinary smallthermos;2020-07-19 08:49:48;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+752;463;scrubber;2020-07-19 09:30:03;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+753;464;stainless big;2020-07-20 03:40:27;Yes;700.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+754;465;Odinary smallthermos;2020-07-20 04:09:06;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+755;465;Coffee thermos;2020-07-20 04:09:06;Yes;400.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+756;466;Tea_un 9litre;2020-07-20 06:09:28;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+757;467;hurra hoops;2020-07-20 06:55:07;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+758;468;plastic jug;2020-07-21 00:17:35;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+759;468;water redberry;2020-07-21 00:17:35;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+760;468;mwiko;2020-07-21 00:17:35;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+761;469;duvet;2020-07-21 05:15:42;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+762;470;Odinary bigthermos;2020-07-21 05:16:53;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+763;470;Plastic Gratersmall;2020-07-21 05:16:53;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+766;471;face;2020-07-21 05:18:08;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+767;472;uteo small;2020-07-21 07:04:56;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+768;473;tenniss;2020-07-21 07:33:47;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+769;474;scrubber;2020-07-21 08:10:15;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+770;474;kichungi small;2020-07-21 08:10:15;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+771;475;silver guns;2020-07-21 08:12:05;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+773;477;OK cup;2020-07-22 03:28:02;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+774;478;signature dotted;2020-07-22 03:47:44;Yes;208.00;250.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+775;479;Feeding kzh;2020-07-22 05:03:14;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+776;480;0rdinary kaulo plate;2020-07-22 08:00:27;Yes;34.00;50.00;7;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+777;481;Knives set;2020-07-23 01:25:28;Yes;2000.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+780;484;Feeding kzh;2020-07-23 02:27:26;Yes;10.00;20.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+781;485;tenniss;2020-07-23 06:47:04;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+782;486;jumping rope small;2020-07-24 00:32:46;Yes;40.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+783;486;uteo big;2020-07-24 00:32:46;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+784;487;Redberry;2020-07-24 08:46:01;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+785;487;light mella;2020-07-24 08:46:01;Yes;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+786;488;hand bag;2020-07-24 09:21:02;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+787;489;Odinary smallthermos;2020-07-25 03:51:28;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+788;490;Excd thermos;2020-07-25 07:23:15;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+789;490;hand bag;2020-07-25 07:23:15;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+790;490;ear rings 7;2020-07-25 07:23:15;Yes;5.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+791;490;chains;2020-07-25 07:23:15;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+792;491;kenstar cup set;2020-07-26 04:00:26;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+793;491;kenstar small;2020-07-26 04:00:26;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+794;491;Feeding stainless;2020-07-26 04:00:26;Yes;9.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+795;491;Plastic Gratersmall;2020-07-26 04:00:26;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+796;491;scrubber;2020-07-26 04:00:26;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+797;492;bucket 5l;2020-07-26 04:15:03;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+798;493;Tea_un 7litre;2020-07-26 04:58:36;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+799;494;teaun 5.8;2020-07-26 04:59:17;Yes;1700.00;2000.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+800;495;kenstar small;2020-07-26 05:06:51;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+801;496;jumping rope small;2020-07-26 06:46:27;Yes;40.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+802;497;chains;2020-07-26 06:47:05;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+803;498;tycoon;2020-07-27 04:38:05;Yes;400.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+804;499;Shocky;2020-07-27 08:19:04;Yes;183.00;250.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+805;499;Luminac;2020-07-27 08:19:04;Yes;185.00;250.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+806;500;mwiko;2020-07-28 03:34:07;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+807;501;small saucer;2020-07-28 05:01:19;Yes;80.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+808;502;soft throw;2020-07-28 07:01:05;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+809;502;soft small;2020-07-28 07:01:06;Yes;650.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+810;502;Odinary bigthermos;2020-07-28 07:01:06;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+811;503;Chopper;2020-07-29 03:45:21;Yes;500.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+812;504;scrubber;2020-07-29 04:25:43;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+813;505;scrubber;2020-07-29 06:55:02;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+814;506;scrubber;2020-07-29 07:37:05;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+815;506;kaulo Kettle;2020-07-29 07:37:05;Yes;550.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+816;506;ordinary knife;2020-07-29 07:37:05;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+817;507;Doctor doll;2020-07-29 07:51:27;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+818;508;Tea_un 9litre;2020-07-30 05:09:33;Yes;1800.00;2500.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+819;509;monkey medium;2020-07-30 05:31:30;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+820;510;water redberry;2020-07-31 04:26:35;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+821;510;scrubber;2020-07-31 04:26:35;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+822;511;kichungi small;2020-07-31 05:43:38;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+823;512;loops;2020-07-31 06:20:21;Yes;15.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+826;514;regal 3ltrs;2020-07-31 07:18:27;No;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+827;514;tenniss;2020-07-31 07:18:27;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+828;515;Jumping rope biggest;2020-07-31 09:16:06;Yes;70.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+829;516;Odinary bigthermos;2020-08-01 02:26:10;No;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+830;517;kid bungle;2020-08-01 07:18:41;Yes;10.00;20.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+831;517;jumping rope small;2020-08-01 07:18:41;Yes;40.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+832;518;my drink;2020-08-01 07:20:59;Yes;850.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+833;518;sticker hanger;2020-08-01 07:20:59;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+834;518;key holder;2020-08-01 07:20:59;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+835;519;big ball;2020-08-01 07:26:34;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+836;520;9 litre;2020-08-01 08:31:49;Yes;2600.00;3500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+837;521;chapati;2020-08-01 08:42:01;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+838;521;rolling pin;2020-08-01 08:42:01;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+839;522;scrubber;2020-08-01 09:34:28;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+840;522;wall ;2020-08-01 09:34:28;Yes;150.00;250.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+841;523;medium ball;2020-08-02 07:50:00;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+842;523;Watches;2020-08-02 07:50:00;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+843;524;rose kettie;2020-08-03 03:13:38;Yes;900.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+844;525;Regal 2l thermos;2020-08-03 03:22:34;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+845;526;Odinary bigthermos;2020-08-04 02:04:17;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+846;527;medium ball;2020-08-04 02:28:54;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+847;528;Trumpets;2020-08-04 06:24:31;Yes;40.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+848;529;loops;2020-08-04 06:56:17;Yes;15.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+849;530;loops;2020-08-04 07:03:56;Yes;15.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+850;531;table mats;2020-08-05 00:10:11;Yes;650.00;850.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+851;532;ear rings 7;2020-08-05 02:41:51;Yes;5.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+852;532;glass 2;2020-08-05 02:41:51;Yes;800.00;1300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+853;533;Feeding kzh;2020-08-06 04:20:45;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+854;534;Serving spoon;2020-08-06 07:46:41;Yes;70.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+855;535;sticker hanger;2020-08-06 07:47:43;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+856;536;tribal;2020-08-07 01:59:59;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+857;536;kidude marvin;2020-08-07 01:59:59;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+858;537;big dinner ;2020-08-07 06:26:04;Yes;230.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+859;537;side plates;2020-08-07 06:26:04;Yes;180.00;200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+860;537;small saucer;2020-08-07 06:26:04;Yes;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+861;537;assorted cups;2020-08-07 06:26:05;Yes;150.00;180.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+862;538;loops;2020-08-07 06:28:34;Yes;15.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+863;539;regal 3ltrs;2020-08-07 06:32:47;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+864;540;Water gunsbig;2020-08-07 06:42:33;Yes;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+865;540;Water gunsmall;2020-08-07 06:42:33;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+866;540;water game;2020-08-07 06:42:33;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+867;541;luminarc glasses;2020-08-07 06:49:25;Yes;600.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+868;542;tenniss;2020-08-07 07:16:21;Yes;30.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+869;543;bagged;2020-08-07 08:10:06;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+870;544;signature bottle;2020-08-07 08:10:54;Yes;600.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+871;545;kids;2020-08-08 02:51:06;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+872;546;Odinary bigthermos;2020-08-08 05:59:24;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+874;548;rolling pin;2020-08-08 08:32:11;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+875;548;bagged;2020-08-08 08:32:11;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+876;549;Odinary bigthermos;2020-08-09 05:08:51;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+877;550;unbreakable plates;2020-08-09 08:36:21;Yes;100.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+878;550;ordinary knife;2020-08-09 08:36:22;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+879;551;Black set;2020-08-09 09:32:54;Yes;4500.00;7500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+880;552;kid goggles;2020-08-10 01:01:55;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+881;552;purse;2020-08-10 01:01:55;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+882;553;Feeding kzh;2020-08-10 01:35:57;Yes;10.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+883;553;tenniss;2020-08-10 01:35:57;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+884;553;kidude marvin;2020-08-10 01:35:57;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+885;553;kitchen mediumknife;2020-08-10 01:35:57;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+886;554;Odinary smallthermos;2020-08-10 02:53:34;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+887;555;kenstar cup set;2020-08-10 03:14:49;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+888;556;Odinary bigthermos;2020-08-10 03:56:07;No;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+889;557;3 in one blender;2020-08-10 08:02:46;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+890;558;tenniss;2020-08-10 08:21:08;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+891;559;Feeding kzh;2020-08-10 08:33:44;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+892;560;Feeding kzh;2020-08-10 09:32:27;Yes;10.00;20.00;5;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+893;561;tenniss;2020-08-10 09:33:31;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+894;562;plastic jug;2020-08-11 02:45:45;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+895;563;disluck;2020-08-11 04:31:53;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+896;564;big ball;2020-08-11 09:14:43;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+897;565;Redberry;2020-08-11 09:20:31;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+898;565; lids small ;2020-08-11 09:20:31;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+899;566;kidude marvin;2020-08-12 00:35:22;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+900;567;kaulo Kettle;2020-08-12 07:41:58;Yes;550.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+901;568;Water gunsmall;2020-08-12 07:44:27;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+902;569;goggles;2020-08-12 23:51:52;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+903;569;spray bottle;2020-08-12 23:51:52;Yes;170.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+904;570;sticker hanger;2020-08-13 01:13:20;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+905;570;big dinner ;2020-08-13 01:13:20;Yes;230.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+906;571;iron box;2020-08-13 04:02:28;Yes;900.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+907;572;soft throw;2020-08-13 04:20:04;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+908;573; lids small ;2020-08-13 06:21:55;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+909;574;medium ball;2020-08-13 06:41:00;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+910;575;scrubber;2020-08-13 07:12:36;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+911;576;woolen duvet;2020-08-13 07:16:33;Yes;1500.00;1900.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+912;576;plastic grater big;2020-08-13 07:16:33;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+913;576;proffesional;2020-08-13 07:16:33;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+914;576;kitchen;2020-08-13 07:16:33;Yes;80.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+915;577;Odinary bigthermos;2020-08-13 07:34:30;No;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+916;577;signature dotted;2020-08-13 07:34:30;No;208.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+917;578;Water gunsmall;2020-08-13 07:37:12;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+918;579;teaspoon;2020-08-13 08:19:03;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+919;580;table cover small;2020-08-13 08:32:53;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+920;581;Royalcandy sdish;2020-08-13 08:39:02;Yes;250.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+921;581;teaspoon;2020-08-13 08:39:02;Yes;10.00;20.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+922;582;salt shaker;2020-08-13 08:40:59;Yes;60.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+923;582;Sieves kichungi;2020-08-13 08:40:59;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+924;583;ordinary knife;2020-08-14 03:19:26;Yes;25.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+925;584;ordinary knife;2020-08-14 05:05:01;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+926;584;short servingspoon;2020-08-14 05:05:01;Yes;35.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+927;585;skimmer small;2020-08-14 06:36:35;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+928;586;Feeding kzh;2020-08-14 08:10:44;Yes;10.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+930;588;kenstar small;2020-08-14 08:46:06;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+931;588;mabati;2020-08-14 08:46:06;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+932;588;Feeding kzh;2020-08-14 08:46:06;No;10.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+933;589;goggles;2020-08-15 02:04:41;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+934;589;mabati small bowl;2020-08-15 02:04:41;Yes;19.00;30.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+935;590;mabati sieves;2020-08-15 05:51:55;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+936;591;uteo small;2020-08-16 04:19:05;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+937;592;table cover big;2020-08-16 04:45:50;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+938;593;tenniss;2020-08-16 06:50:15;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+939;594;Odinary smallthermos;2020-08-16 08:20:34;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+940;595;Stainless thermos;2020-08-17 03:38:42;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+941;596;scrubber;2020-08-17 03:41:01;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+942;597;Fibre small plate;2020-08-17 04:56:29;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+943;597;panty holder;2020-08-17 04:56:29;Yes;230.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+944;597;OK cup;2020-08-17 04:56:29;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+945;598;unbreakable oval ;2020-08-17 06:40:21;Yes;75.00;110.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+946;599;OK cup;2020-08-17 06:52:39;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+947;600;Odinary bigthermos;2020-08-17 08:45:46;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+948;601;duvet;2020-08-17 09:18:31;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+949;602;chondo;2020-08-18 01:34:33;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+950;603;feeding forks;2020-08-18 03:46:34;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+951;604;fibre tray;2020-08-18 07:26:18;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+952;604;3 in one blender;2020-08-18 07:26:18;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+953;605;mabati medium bowl;2020-08-18 09:09:21;Yes;24.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+954;605;0rdinary kaulo plate;2020-08-18 09:09:21;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+955;605;assorted cups;2020-08-18 09:09:21;Yes;150.00;180.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+956;606;mabati medium bowl;2020-08-18 09:26:19;Yes;24.00;40.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+957;607;big ball;2020-08-19 05:36:56;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+958;608;kenstar cup set;2020-08-19 07:27:42;Yes;300.00;380.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+959;609;mwiko;2020-08-19 08:31:05;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+960;610;kid goggles;2020-08-19 23:55:21;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+961;611;DN;2020-08-20 04:26:35;Yes;91.00;117.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+962;611;fibre tray;2020-08-20 04:26:36;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+963;612;medium ball;2020-08-20 06:35:26;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+964;613;feeding forks;2020-08-21 01:59:24;Yes;8.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+965;613;mabati;2020-08-21 01:59:24;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+966;613;kidude marvin;2020-08-21 01:59:24;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+967;614;Water gunsmall;2020-08-21 05:37:48;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+968;615;0rdinary kaulo plate;2020-08-21 07:36:35;Yes;34.00;50.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+969;615;kaulu;2020-08-21 07:36:35;Yes;90.00;120.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+970;616;Odinary smallthermos;2020-08-22 02:10:38;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+971;617;bagged;2020-08-22 04:37:41;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+972;618;jumping rope big;2020-08-22 04:50:44;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+973;619;uteo big;2020-08-22 07:03:21;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+974;620;uteo small;2020-08-22 07:03:49;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+975;621;cosget;2020-08-22 07:52:14;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+976;622;plastic jug;2020-08-23 05:40:14;Yes;80.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+977;622;feeding forks;2020-08-23 05:40:14;Yes;8.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+978;622;clear serrated;2020-08-23 05:40:15;Yes;190.00;240.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+979;623;Water gunsmall;2020-08-23 06:17:51;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+980;624;plastic;2020-08-24 05:33:44;Yes;200.00;300.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+981;625;0rdinary kaulo plate;2020-08-24 08:24:03;Yes;34.00;50.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+982;626;medium ball;2020-08-24 09:07:48;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+983;627;kidude marvin;2020-08-25 02:55:08;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+984;627;belts;2020-08-25 02:55:08;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+985;628;tongs;2020-08-25 05:45:18;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+986;629;Odinary bigthermos;2020-08-25 05:48:27;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+987;630;chondo;2020-08-25 06:31:15;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+988;630;mwiko;2020-08-25 06:31:15;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+989;630;uteo big;2020-08-25 06:31:15;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+990;631;Odinary bigthermos;2020-08-25 07:26:27;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+991;632;tenniss;2020-08-25 08:28:00;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+992;633;grill ;2020-08-25 09:22:41;Yes;3000.00;4000.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+993;634;ordinary knife;2020-08-26 08:37:04;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+994;634;Line plate;2020-08-26 08:37:04;Yes;125.00;150.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+995;634;Feeding kzh;2020-08-26 08:37:04;Yes;10.00;20.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+996;635;kenstar small;2020-08-26 09:26:45;Yes;30.00;55.00;6;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+997;636;Signature;2020-08-27 05:16:15;Yes;500.00;840.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+998;637;mwiko;2020-08-27 07:02:17;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+999;638;ordinary knife;2020-08-27 08:34:53;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1000;639;rose kettie;2020-08-28 01:43:47;No;900.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1001;640;bucket 20L;2020-08-28 02:38:04;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1002;641;stainless big;2020-08-28 03:18:52;Yes;700.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1003;642;Bucket 16;2020-08-28 08:25:13;No;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1004;643;tenniss;2020-08-30 04:39:57;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1005;643;Odinary bigthermos;2020-08-30 04:39:57;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1006;644;mwiko;2020-08-30 04:40:41;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1007;645;iron box;2020-08-30 07:01:31;Yes;900.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1008;646; men socks;2020-08-30 08:22:50;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1009;647;scrubber;2020-08-30 08:44:42;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1010;648;Tea_un 7litre;2020-08-31 02:53:44;Yes;1500.00;2000.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1011;649;chondo;2020-08-31 07:58:00;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1012;649;spider man;2020-08-31 07:58:00;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1013;649;piano;2020-08-31 07:58:01;Yes;220.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1014;649;scrubber;2020-08-31 07:58:01;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1015;649;Water gunsbig;2020-08-31 07:58:01;Yes;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1016;649;spray bottle;2020-08-31 07:58:01;Yes;170.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1017;650;ladies;2020-08-31 09:21:03;Yes;150.00;250.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1018;651;Sieves kichungi;2020-09-01 03:07:33;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1019;652;sufuria 8;2020-09-01 04:39:48;Yes;600.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1020;653;ordinary cups;2020-09-01 04:41:26;Yes;42.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1021;654;Sieves kichungi;2020-09-01 07:25:52;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1022;655;spray bottle;2020-09-02 04:52:01;Yes;170.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1023;656;scrubber;2020-09-02 05:50:23;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1024;656;kitchen mediumknife;2020-09-02 05:50:23;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1025;657;keep fresh;2020-09-02 06:21:29;Yes;500.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1026;657;Odinary smallthermos;2020-09-02 06:21:29;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1027;658;deco cup;2020-09-02 06:32:03;Yes;55.00;120.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1028;659;Stainless thermos;2020-09-02 06:54:13;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1029;660;sinia smallstainless;2020-09-02 08:01:08;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1030;660;Feeding kzh;2020-09-02 08:01:08;Yes;10.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1031;661;tenniss;2020-09-03 01:29:13;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1032;662;mabati;2020-09-03 04:14:34;Yes;250.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1033;663;tenniss;2020-09-03 05:05:20;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1034;664;Wall clocksmall;2020-09-03 05:27:20;Yes;600.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1035;665;sticker hanger;2020-09-03 06:17:26;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1036;666;pegs;2020-09-03 09:11:06;Yes;6.00;20.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1037;667;sinia big;2020-09-04 07:28:05;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1039;668;2334-10;2020-09-05 03:17:22;No;116.00;150.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1040;668;Shocky;2020-09-05 03:17:22;Yes;183.00;250.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1041;669;mellaware plates;2020-09-05 03:49:26;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1042;670;Odinary bigthermos;2020-09-05 05:35:37;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1043;671;tycoon;2020-09-05 06:35:58;Yes;400.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1044;672;regal 3ltrs;2020-09-05 09:22:20;No;1800.00;2500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1045;673;7 litres;2020-09-06 06:05:55;Yes;2500.00;3300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1046;673;regal 3ltrs;2020-09-06 06:05:55;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1047;673;OK cup;2020-09-06 06:05:56;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1048;674;Odinary smallthermos;2020-09-06 06:08:22;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1049;674;kenstar cup set;2020-09-06 06:08:22;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1050;675;bucket 20L;2020-09-06 09:01:54;Yes;150.00;200.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1052;676;Stainless thermos;2020-09-07 02:01:23;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1053;677;rainbow umbrella;2020-09-07 03:26:54;Yes;230.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1054;678;kaulu;2020-09-07 03:31:32;Yes;90.00;120.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1055;679;ordinary knife;2020-09-07 05:46:10;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1056;680; lids big;2020-09-08 04:09:11;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1057;680; lids small ;2020-09-08 04:09:11;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1058;681;eurovision;2020-09-08 07:02:18;Yes;67.00;100.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1059;682;kaulu;2020-09-09 02:45:09;Yes;90.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1060;682;6506;2020-09-09 02:45:09;Yes;80.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1061;683;duvet;2020-09-09 03:28:23;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1062;684;Bucket 11;2020-09-09 03:42:31;Yes;110.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1063;685;Sieves kichungi;2020-09-09 04:25:09;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1064;686;Serving Mella;2020-09-09 05:50:52;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1065;686;bagged;2020-09-09 05:50:52;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1066;687;umb 30;2020-09-09 06:08:05;Yes;300.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1067;688;whisk;2020-09-09 06:30:59;Yes;100.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1068;689;kidude marvin;2020-09-09 07:04:50;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1069;690;big ball;2020-09-10 01:09:43;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1070;691;Black set;2020-09-10 02:04:03;Yes;4500.00;7500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1071;692;lemon sq;2020-09-10 05:20:08;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1072;693;Water gunsmall;2020-09-10 05:21:51;Yes;20.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1073;694;multicolour plastic;2020-09-10 06:38:59;Yes;25.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1074;695;Shocky;2020-09-10 08:02:41;Yes;183.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1075;695;diva;2020-09-10 08:02:41;Yes;142.00;200.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1077;697;11 litre Pcooker;2020-09-10 08:56:38;Yes;2800.00;3800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1078;697;bucket 20L;2020-09-10 08:56:38;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1079;697;light water;2020-09-10 08:56:38;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1080;698;chondo;2020-09-10 23:26:40;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1081;699;diva;2020-09-11 00:54:06;Yes;142.00;200.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1082;700;buckets;2020-09-11 02:30:42;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1083;701;vegetable cutter big;2020-09-11 03:53:00;Yes;1500.00;2200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1084;701;kidude marvin;2020-09-11 03:53:00;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1085;701;mwiko;2020-09-11 03:53:00;Yes;20.00;30.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1086;702;kenstar cup set;2020-09-11 04:02:27;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1087;703;mabati medium bowl;2020-09-11 04:59:04;Yes;24.00;40.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1088;704;chains;2020-09-11 05:11:41;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1089;705;pearl;2020-09-11 05:12:38;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1090;706;bucket 20L;2020-09-11 06:25:54;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1091;706;plastic sieve;2020-09-11 06:25:54;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1092;706;kitchen mediumknife;2020-09-11 06:25:54;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1093;707; lids big;2020-09-11 06:32:39;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1094;708;whisk;2020-09-12 03:51:36;Yes;100.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1095;708;Shocky;2020-09-12 03:51:36;Yes;183.00;250.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1096;708;stainless small;2020-09-12 03:51:36;Yes;650.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1097;709;Regal 2l thermos;2020-09-12 04:25:52;Yes;1500.00;2000.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1098;709;food flask;2020-09-12 04:25:52;Yes;1000.00;1500.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1099;709;Redberry;2020-09-12 04:25:52;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1100;709; lids small ;2020-09-12 04:25:52;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1101;709;pegs;2020-09-12 04:25:52;Yes;6.00;20.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1102;710;lunch box;2020-09-12 04:42:27;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1103;711;door;2020-09-12 06:29:48;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1104;712;mabati sieves;2020-09-12 08:34:24;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1105;712;pearl band;2020-09-12 08:34:25;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1106;713;Water gunsbig;2020-09-13 04:22:28;Yes;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1107;714;0.5l thermos;2020-09-13 04:41:43;No;500.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1108;715;tongs;2020-09-13 05:09:22;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1109;716;medium ball;2020-09-13 05:49:23;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1110;717;hurra hoops;2020-09-13 07:38:57;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1111;718;Wall clockbig;2020-09-13 07:49:38;Yes;1000.00;1500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1112;719;mabati medium bowl;2020-09-13 08:32:02;Yes;24.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1113;720;0rdinary kaulo plate;2020-09-14 01:25:50;Yes;34.00;50.00;18;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1114;721;jumping rope small;2020-09-14 06:27:26;Yes;40.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1115;722;medium ball;2020-09-15 01:17:50;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1116;723;tongs;2020-09-15 03:36:07;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1117;724;mabati;2020-09-15 05:18:11;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1118;725;diva plates;2020-09-15 07:48:55;Yes;141.00;183.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1119;726;morden cups;2020-09-15 08:07:02;Yes;110.00;150.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1120;727;Redberry;2020-09-16 03:48:11;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1121;728;big dinner ;2020-09-16 06:56:04;Yes;230.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1122;728;Feeding kzh;2020-09-16 06:56:04;Yes;10.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1123;728;feeding forks;2020-09-16 06:56:04;Yes;8.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1124;728;teaspoon;2020-09-16 06:56:04;Yes;10.00;20.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1125;728;Butter Knives;2020-09-16 06:56:04;Yes;60.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1126;729;net holder;2020-09-16 06:58:01;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1127;730;teaspoon;2020-09-16 06:59:27;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1128;731;Butter Knives;2020-09-16 07:49:15;Yes;60.00;100.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1129;731;Sieves kichungi;2020-09-16 07:49:15;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1130;732;Plastic Gratersmall;2020-09-16 08:21:55;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1131;733;kenstar cup set;2020-09-16 08:32:04;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1132;734;mellaware plates;2020-09-16 08:49:39;Yes;120.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1133;735;whisk;2020-09-17 00:53:53;Yes;100.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1134;735;OK cup;2020-09-17 00:53:53;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1135;736;kidude small;2020-09-17 06:26:13;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1136;736;tenniss;2020-09-17 06:26:13;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1137;737;drawing board;2020-09-17 08:33:26;Yes;100.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1138;738;mellaware plates;2020-09-18 01:55:00;Yes;120.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1139;739;kenstar cup set;2020-09-18 06:14:28;Yes;300.00;380.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1140;740;0rdinary kaulo plate;2020-09-18 07:04:45;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1141;741;kaulu;2020-09-19 01:00:59;Yes;90.00;120.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1142;742;kenstar small;2020-09-19 01:01:49;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1143;743;medium ball;2020-09-19 01:36:42;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1144;744;umb 18;2020-09-19 03:04:49;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1145;745;table cover small;2020-09-19 09:23:09;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1146;746;Plastic Gratersmall;2020-09-20 04:30:48;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1147;747;plastic jug;2020-09-20 06:56:53;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1148;748;lunch box;2020-09-20 08:10:59;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1149;749;mabati;2020-09-21 03:35:54;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1150;750;bagged;2020-09-21 05:05:57;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1151;751;Odinary bigthermos;2020-09-21 08:15:09;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1152;752;regal 3ltrs;2020-09-21 08:16:10;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1153;753;Sunflower;2020-09-22 05:33:35;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1154;754;ladies;2020-09-22 07:18:10;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1155;755;kenstar cup set;2020-09-23 02:12:47;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1156;756;uteo small;2020-09-23 03:19:58;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1157;757;Excd thermos;2020-09-23 07:29:57;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1158;758;spray bottle;2020-09-23 07:34:59;Yes;170.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1159;759;lemon sq;2020-09-23 08:30:01;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1160;760;tenniss;2020-09-23 08:32:52;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1161;761;glass plate;2020-09-23 08:50:37;Yes;59.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1162;762;glass plate;2020-09-23 09:29:03;Yes;59.00;100.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1163;763;rainbow umbrella;2020-09-24 07:19:52;Yes;230.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1164;763;mwiko;2020-09-24 07:19:52;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1165;763;rolling pin;2020-09-24 07:19:52;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1166;764;umb 18;2020-09-24 08:11:51;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1167;765;kamba;2020-09-25 01:11:50;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1168;765;school socks;2020-09-25 01:11:50;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1169;766;bucket 5l;2020-09-25 08:51:07;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1170;766;Odinary bigthermos;2020-09-25 08:51:07;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1171;767;0rdinary kaulo plate;2020-09-25 09:08:30;Yes;34.00;50.00;4;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1172;767;lunch box;2020-09-25 09:08:31;Yes;300.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1173;768;mabati;2020-09-25 09:25:23;No;250.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1174;769;OK cup;2020-09-26 01:36:03;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1175;770;big ball;2020-09-26 06:56:37;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1176;771;Odinary bigthermos;2020-09-26 07:02:03;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1177;772;wooden set;2020-09-26 08:06:04;Yes;200.00;400.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1178;773;ladies;2020-09-27 08:18:13;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1179;774;tenniss;2020-09-27 08:22:12;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1180;775;kidude small;2020-09-27 08:25:01;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1181;775;small;2020-09-27 08:25:01;Yes;190.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1182;776;kidude marvin;2020-09-27 08:36:13;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1184;778;OK cup;2020-09-28 04:05:13;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1185;779;Regal 2l thermos;2020-09-28 04:05:42;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1186;780;Watches;2020-09-28 05:47:57;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1187;781;Tea_un 9litre;2020-09-28 05:49:44;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1188;782;Odinary bigthermos;2020-09-28 07:38:14;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1189;783;chapati;2020-09-28 09:08:49;Yes;130.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1190;783;rolling pin;2020-09-28 09:08:49;Yes;50.00;70.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1191;784;panty holder;2020-09-29 03:30:29;Yes;230.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1192;785;duvet;2020-09-29 05:56:58;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1193;786;big ball;2020-09-29 06:00:43;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1194;787;kenstar cup set;2020-09-29 06:54:48;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1195;788;Shocky;2020-09-29 07:21:44;Yes;183.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1196;788;Luminac;2020-09-29 07:21:44;Yes;185.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1197;788;3 in one blender;2020-09-29 07:21:44;No;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1198;788;glass jugs;2020-09-29 07:21:44;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1199;789;Water gunsbig;2020-09-29 07:44:33;Yes;50.00;80.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1200;790;Watches;2020-09-30 01:04:52;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1201;791;belts;2020-09-30 02:23:05;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1202;792;heavy mella bowls;2020-09-30 02:36:06;Yes;63.00;100.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1203;792;Line plate;2020-09-30 02:36:07;Yes;125.00;150.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1204;793;travel thermos;2020-09-30 05:39:08;Yes;800.00;1200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1205;794;scrubber;2020-09-30 06:15:44;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1206;795;Watches;2020-09-30 07:04:09;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1207;796;kenstar small;2020-09-30 07:34:40;Yes;30.00;55.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1208;797;light water;2020-10-01 08:58:26;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1209;798;scrubber;2020-10-01 08:59:19;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1210;798;mwiko;2020-10-01 08:59:19;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1211;799;silver guns;2020-10-02 04:02:44;Yes;70.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1212;800;chains;2020-10-02 05:32:51;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1213;801;belts;2020-10-02 05:37:03;No;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1214;802;mabati;2020-10-02 06:14:26;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1215;803;face;2020-10-02 07:17:55;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1216;804;chondo;2020-10-02 07:47:46;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1217;804;uteo small;2020-10-02 07:47:46;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1218;805;indian keyholder;2020-10-02 08:01:05;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1219;806;spray bottle;2020-10-02 08:17:48;Yes;170.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1220;807;scrubber;2020-10-02 08:45:10;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1221;808;belts;2020-10-03 02:30:35;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1222;809;plastic jug;2020-10-03 04:01:04;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1223;810;Odinary bigthermos;2020-10-03 05:33:11;Yes;350.00;450.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1224;811;Excd thermos;2020-10-03 08:32:33;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1225;812;sport men socks;2020-10-04 03:14:57;Yes;30.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1226;813;umb 35;2020-10-04 03:52:16;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1227;814;kaulo Kettle;2020-10-04 05:41:07;Yes;550.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1228;815;net patterned;2020-10-05 02:00:32;Yes;180.00;200.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1229;815;Sieves kichungi;2020-10-05 02:00:32;Yes;100.00;130.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1230;815;sticker hanger;2020-10-05 02:00:32;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1231;815;uteo small;2020-10-05 02:00:32;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1232;815;multicolour plastic;2020-10-05 02:00:32;Yes;25.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1233;816;sundabest flowered;2020-10-05 02:02:32;Yes;125.00;166.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1234;817;Kiruri No Handle;2020-10-05 02:45:03;Yes;2600.00;3200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1235;818;loops;2020-10-05 04:05:20;Yes;15.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1237;820;disluck;2020-10-05 06:49:33;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1238;820;Spoon holder;2020-10-05 06:49:33;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1239;821;Jamjar Sugardish;2020-10-05 08:22:51;Yes;250.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1240;822;kenstar small;2020-10-05 23:41:17;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1241;823;Smal stainles Grater;2020-10-06 05:22:20;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1242;824;ordinary knife;2020-10-06 05:24:32;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1243;825;kid goggles;2020-10-06 06:10:14;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1244;826;hurra hoops;2020-10-07 06:05:52;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1245;827;rolling pin;2020-10-08 03:06:47;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1247;828;disco watch;2020-10-08 03:07:17;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1248;829;hand mixer;2020-10-08 07:26:07;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1249;829;wooden set;2020-10-08 07:26:07;Yes;200.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1250;829;scrubber;2020-10-08 07:26:07;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1251;830;scrubber;2020-10-08 09:26:23;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1252;831;lemon sq;2020-10-08 09:26:54;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1253;832;gift pack;2020-10-09 08:38:49;Yes;100.00;125.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1254;833;bagged;2020-10-09 08:41:08;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1255;834;kidude marvin;2020-10-09 08:47:32;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1256;835;face;2020-10-10 08:23:08;Yes;16.00;30.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1257;835;Butcher Knife;2020-10-10 08:23:08;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1258;836;scrubber;2020-10-11 03:47:31;Yes;30.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1259;836;kidude marvin;2020-10-11 03:47:31;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1260;837;pegs;2020-10-11 06:57:56;Yes;6.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1261;837;Odinary smallthermos;2020-10-11 06:57:56;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1262;838;tenniss;2020-10-11 07:50:49;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1263;839;diva;2020-10-12 04:04:12;Yes;142.00;200.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1264;840;woolen duvet;2020-10-12 04:05:13;No;1500.00;1900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1265;841;garic press;2020-10-12 05:49:57;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1266;841;table cover big;2020-10-12 05:49:57;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1267;842;Stainless thermos;2020-10-12 06:14:31;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1268;843;skimmer big;2020-10-12 08:58:47;No;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1269;844;ever fresh set;2020-10-12 09:11:43;Yes;250.00;400.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1270;845;Stainless thermos;2020-10-13 02:31:13;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1271;845;Feeding kzh;2020-10-13 02:31:13;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1272;846;Odinary bigthermos;2020-10-13 02:54:58;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1273;847;tenniss;2020-10-13 04:01:48;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1274;848;Excd thermos;2020-10-13 04:20:21;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1275;848;0rdinary kaulo plate;2020-10-13 04:20:21;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1276;849;scrubber;2020-10-13 04:32:36;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1277;850;scrubber;2020-10-13 07:28:26;No;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1278;851;big ball;2020-10-13 08:34:12;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1279;852;Odinary smallthermos;2020-10-14 00:38:00;Yes;290.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1280;852;scrubber;2020-10-14 00:38:00;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1281;853;plastic jug;2020-10-14 01:45:23;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1282;854;Odinary bigthermos;2020-10-14 02:36:41;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1283;855;Odinary bigthermos;2020-10-14 03:30:13;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1284;856;light water;2020-10-14 06:57:01;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1285;857;food flask;2020-10-14 07:33:52;Yes;1000.00;1500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1286;858;Water gunsbig;2020-10-14 07:38:21;Yes;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1287;859;Serving spoon;2020-10-14 07:39:59;Yes;70.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1288;860;pada car;2020-10-14 07:49:53;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1289;861;rolling pin;2020-10-14 07:57:46;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1290;862;rolling pin;2020-10-14 09:11:26;Yes;50.00;70.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1291;863;glass sets;2020-10-15 05:44:35;Yes;1200.00;1700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1292;863;OK cup;2020-10-15 05:44:35;Yes;120.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1293;864;scrubber;2020-10-15 05:47:56;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1294;865;7 litres;2020-10-15 07:27:01;Yes;2500.00;3300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1295;866;silver guns;2020-10-15 08:31:44;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1296;867;jumping rope small;2020-10-15 08:35:10;Yes;40.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1297;868;chains;2020-10-16 02:58:39;Yes;20.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1298;868;Plastic Gratersmall;2020-10-16 02:58:40;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1299;868;scrubber;2020-10-16 02:58:40;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1300;869;kid goggles;2020-10-16 03:50:22;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1301;870;buckets;2020-10-16 05:29:31;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1302;871;6506;2020-10-16 07:21:48;Yes;80.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1303;871;6506;2020-10-16 07:21:48;Yes;80.00;120.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1304;872;sticker hanger;2020-10-16 08:26:56;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1305;872;tongs;2020-10-16 08:26:56;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1306;872;table mats;2020-10-16 08:26:56;Yes;650.00;850.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1307;873;table mats;2020-10-16 08:28:32;Yes;650.00;850.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1308;874;shaker;2020-10-16 09:10:56;Yes;17.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1309;875; lids big;2020-10-16 09:24:33;Yes;100.00;150.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1310;876;rings plain;2020-10-17 03:39:54;Yes;30.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1311;876;rings deco;2020-10-17 03:39:55;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1312;877;medium ball;2020-10-17 04:53:32;Yes;100.00;200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1313;877;pada car;2020-10-17 04:53:32;Yes;50.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1314;878;rings deco;2020-10-17 05:02:22;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1315;878;rings plain;2020-10-17 05:02:22;Yes;30.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1316;879;shaker;2020-10-17 05:12:50;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1317;880;scrubber;2020-10-17 05:31:30;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1318;881;big ball;2020-10-17 06:09:20;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1319;881;shaker;2020-10-17 06:09:20;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1320;882;Odinary bigthermos;2020-10-17 08:34:02;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1321;883;0rdinary kaulo plate;2020-10-17 08:57:21;Yes;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1324;886;Feeding kzh;2020-10-18 05:59:26;Yes;10.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1325;887;doublecoluor mabati;2020-10-18 07:28:30;Yes;270.00;325.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1326;888;diva plates;2020-10-18 08:39:04;Yes;141.00;183.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1327;889;rings deco;2020-10-19 02:14:16;No;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1328;890;mabati half;2020-10-19 03:44:44;No;50.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1329;891;mabati;2020-10-19 04:03:40;No;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1330;892;kenstar cup set;2020-10-19 06:02:22;No;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1331;893;Water gunsbig;2020-10-19 07:37:41;No;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1332;894;kichungi 4;2020-10-19 08:41:43;No;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1333;895;Jumping rope biggest;2020-10-20 02:51:16;Yes;70.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1334;896;Paradin big;2020-10-20 04:28:08;Yes;1875.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1335;896; lids small ;2020-10-20 04:28:08;Yes;60.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1336;897;Motor and Pestle;2020-10-20 06:10:48;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1337;898;scrubber;2020-10-20 08:09:23;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1338;899;Jumping rope biggest;2020-10-20 08:29:55;No;70.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1339;900;teaspoon;2020-10-21 03:53:49;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1340;900;feeding forks;2020-10-21 03:53:50;Yes;8.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1341;900; lids big;2020-10-21 03:53:50;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1342;900;Stainless thermos;2020-10-21 03:53:50;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1343;901;silver guns;2020-10-21 05:02:06;Yes;70.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1344;902;Luminac;2020-10-21 07:42:55;Yes;185.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1345;903;purse;2020-10-21 09:08:16;Yes;100.00;150.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1346;904;diva;2020-10-22 02:37:02;Yes;142.00;200.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1347;905;scrubber;2020-10-22 05:40:43;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1348;905;face;2020-10-22 05:40:43;Yes;16.00;30.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1349;905;doublecoluor mabati;2020-10-22 05:40:43;Yes;270.00;325.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1350;906;kichungi 4;2020-10-22 06:03:28;Yes;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1351;907;pada car;2020-10-22 06:04:07;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1352;908;net holder;2020-10-22 08:05:48;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1354;910;Sugar dish small;2020-10-22 08:57:58;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1355;911;beautiful thermo;2020-10-23 03:35:29;Yes;700.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1356;912;Sieves kichungi;2020-10-23 05:26:04;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1357;912;kichungi 4;2020-10-23 05:26:04;Yes;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1358;913;face;2020-10-23 06:35:32;Yes;16.00;30.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1359;914;scrubber;2020-10-23 09:21:16;No;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1360;915;spray bottle;2020-10-24 07:10:28;Yes;170.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1361;916;0rdinary kaulo plate;2020-10-24 08:39:21;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1362;917;Odinary bigthermos;2020-10-25 04:36:49;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1363;918;metal bowl;2020-10-25 04:41:39;No;20.00;40.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1364;919;ordinary knife;2020-10-25 04:42:17;No;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1365;920;birika 6liters;2020-10-25 05:50:44;No;1000.00;1300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1366;921;Odinary bigthermos;2020-10-25 07:31:04;No;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1367;922; lids small ;2020-10-26 00:02:55;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1368;922;calabash;2020-10-26 00:02:55;Yes;380.00;500.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1369;923;small door mats;2020-10-26 03:08:42;Yes;160.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1370;924;sticker hanger;2020-10-26 04:42:49;Yes;60.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1371;925;silver guns;2020-10-26 04:44:43;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1372;926;electric stainless;2020-10-26 06:15:26;Yes;3600.00;4200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1373;927;big lid cup;2020-10-26 06:17:24;Yes;210.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1374;928;table cover big;2020-10-26 08:31:40;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1375;929;towel 7;2020-10-26 09:08:46;Yes;500.00;700.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1376;930;medium ball;2020-10-27 03:40:07;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1377;931;7 litres;2020-10-27 06:24:05;Yes;2500.00;3300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1378;932;disco watch;2020-10-27 06:39:16;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1379;933;bucket 15L;2020-10-27 07:23:02;Yes;130.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1380;933;pegs;2020-10-27 07:23:02;Yes;6.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1381;934;mosquito;2020-10-27 07:48:49;Yes;1800.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1382;935;Signature;2020-10-27 08:51:21;Yes;500.00;840.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1383;935;spiral small;2020-10-27 08:51:21;No;125.00;167.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1384;936;skimmer small;2020-10-28 00:33:07;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1385;937;medium ball;2020-10-28 00:50:43;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1386;938;Speed car;2020-10-28 02:14:24;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1387;939;scrubber;2020-10-28 05:26:08;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1388;940;luminarc cups;2020-10-28 06:37:33;Yes;200.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1389;940;skimmer small;2020-10-28 06:37:33;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1390;941;mwiko;2020-10-28 06:47:54;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1391;941;bucket 15L;2020-10-28 06:47:54;Yes;130.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1392;941;pegs;2020-10-28 06:47:54;Yes;6.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1393;942;bucket 15L;2020-10-28 08:06:11;Yes;130.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1395;944;disluck;2020-10-29 01:04:48;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1396;945;kenstar cup set;2020-10-29 02:22:58;Yes;300.00;380.00;8;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1397;945;silver guns;2020-10-29 02:22:58;Yes;70.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1398;946;scrubber;2020-10-29 02:26:31;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1399;947;Small doll;2020-10-29 03:44:59;Yes;85.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1400;947;kid goggles;2020-10-29 03:44:59;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1401;947;net mats;2020-10-29 03:44:59;Yes;42.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1402;948;kitchen mediumknife;2020-10-29 06:36:06;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1403;948;kitchen;2020-10-29 06:36:06;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1404;948;Plastic Gratersmall;2020-10-29 06:36:07;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1405;948;face;2020-10-29 06:36:07;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1406;949;vegetable cutter big;2020-10-29 08:33:39;Yes;1500.00;2200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1407;950;Speed car;2020-10-29 08:36:53;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1408;951;cup set;2020-10-29 09:02:01;Yes;300.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1409;952;Odinary bigthermos;2020-10-30 04:12:23;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1410;953;Stainless thermos;2020-10-30 05:40:15;Yes;800.00;1100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1411;954;sufuria 7;2020-10-30 07:02:45;Yes;500.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1412;955;Odinary bigthermos;2020-10-30 08:42:57;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1413;955;mwiko;2020-10-30 08:42:57;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1414;956;rolling pin;2020-10-30 08:46:33;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1415;956;scrubber;2020-10-30 08:46:33;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1416;957;Butcher Knife;2020-10-31 00:30:34;No;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1417;958;OK cup;2020-10-31 00:36:37;No;120.00;150.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1418;958;disluck;2020-10-31 00:36:37;No;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1419;959;face;2020-10-31 03:15:48;No;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1420;960;glass plate;2020-10-31 04:09:57;No;59.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1421;961;duvet;2020-10-31 07:10:17;No;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1422;962;ordinary chapatipan;2020-10-31 07:16:46;No;450.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1423;962;feeding forks;2020-10-31 07:16:46;No;8.00;20.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1424;962;Feeding kzh;2020-10-31 07:16:47;No;10.00;20.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1425;962;mellaware plates;2020-10-31 07:16:47;No;120.00;150.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1426;962;rolling pin;2020-10-31 07:16:47;No;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1427;963;rolling pin;2020-10-31 07:19:46;No;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1428;963;mellaware plates;2020-10-31 07:19:46;No;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1429;963;feeding forks;2020-10-31 07:19:46;No;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1430;963;Feeding kzh;2020-10-31 07:19:46;No;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1431;963;capuccino;2020-10-31 07:19:46;No;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1432;963;ordinary chapatipan;2020-10-31 07:19:46;No;450.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1433;964;rolling pin;2020-10-31 07:22:54;No;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1434;964;mellaware plates;2020-10-31 07:22:54;No;120.00;150.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1435;964;feeding forks;2020-10-31 07:22:54;No;8.00;20.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1436;964;Feeding kzh;2020-10-31 07:22:54;No;10.00;20.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1437;964;ordinary chapatipan;2020-10-31 07:22:54;No;450.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1438;964;capuccino;2020-10-31 07:22:54;No;100.00;150.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1439;965;umb 30;2020-10-31 07:23:31;No;300.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1440;966;shaker;2020-10-31 09:34:28;No;17.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1441;967;Water gunsbig;2020-11-01 04:54:41;Yes;50.00;80.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1442;968;2308-10;2020-11-01 05:23:34;Yes;125.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1443;968;kitchen mediumknife;2020-11-01 05:23:34;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1444;969;Odinary smallthermos;2020-11-01 05:50:06;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1445;970;kenstar cup set;2020-11-01 06:09:08;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1446;970;0rdinary kaulo plate;2020-11-01 06:09:08;Yes;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1447;971;big ball;2020-11-01 07:14:45;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1448;972;towel 5;2020-11-01 08:10:42;Yes;250.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1449;973;clear;2020-11-02 02:20:05;Yes;160.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1450;974;lyons  gas;2020-11-02 06:37:23;Yes;3000.00;4500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1451;975;net mats;2020-11-02 07:09:04;Yes;42.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1452;976;sinia smallstainless;2020-11-02 07:43:54;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1453;976;smallest traymella;2020-11-02 07:43:54;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1455;978;big ball;2020-11-03 02:41:03;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1456;979;stainless 15;2020-11-03 05:05:43;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1457;980;Serving spoon;2020-11-03 05:07:13;Yes;70.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1458;981;OK cup;2020-11-04 00:54:13;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1459;982;rolling pin;2020-11-04 07:23:22;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1460;982;pegs;2020-11-04 07:23:22;Yes;6.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1461;983;tenniss;2020-11-04 07:31:27;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1462;984;ordinary chapatipan;2020-11-05 00:44:37;Yes;450.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1463;985;Odinary bigthermos;2020-11-05 02:00:18;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1464;986;freedom pan;2020-11-05 02:33:57;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1465;986;26cm pan granite;2020-11-05 02:33:57;Yes;1500.00;1800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1466;986;Paradin small;2020-11-05 02:33:57;Yes;5500.00;7000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1467;986;ramtons  gas;2020-11-05 02:33:57;Yes;4000.00;5000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1468;987;door;2020-11-05 03:14:56;Yes;350.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1469;988;key holder;2020-11-05 05:19:12;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1470;988;kitchen;2020-11-05 05:19:12;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1471;989;Mexxi 1.3 thermos;2020-11-05 06:21:09;Yes;1700.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1472;989;proffesional small;2020-11-05 06:21:09;Yes;200.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1473;990;glass;2020-11-05 07:24:16;Yes;100.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1475;991;kenstar cup set;2020-11-05 08:08:19;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1476;991;grater simple;2020-11-05 08:08:19;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1477;991;sundabest s plate;2020-11-05 08:08:19;Yes;134.00;175.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1478;991;face;2020-11-05 08:08:20;Yes;16.00;30.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1479;991;double rack;2020-11-05 08:08:20;Yes;650.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1480;992;smallest traymella;2020-11-05 08:26:15;Yes;100.00;150.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1481;993;ordinary cups;2020-11-06 02:08:38;Yes;42.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1482;993;Redberry;2020-11-06 02:08:38;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1483;994;Redberry;2020-11-06 02:09:44;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1484;994;ordinary cups;2020-11-06 02:09:44;Yes;42.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1485;995;luminarc flowered;2020-11-06 02:51:27;Yes;216.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1486;995;luminarc cups;2020-11-06 02:51:27;Yes;200.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1487;995;signature 3 in 1;2020-11-06 02:51:27;Yes;3000.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1488;996;uteo small;2020-11-06 04:43:11;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1489;997;Odinary smallthermos;2020-11-06 05:46:30;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1490;998;bucket 20L;2020-11-06 07:29:41;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1491;999;vegetable cutter big;2020-11-06 07:30:47;No;1500.00;2200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1492;1000;goggles;2020-11-06 08:16:30;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1493;1001;kitchen;2020-11-06 08:22:21;No;80.00;150.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1494;1002;Odinary bigthermos;2020-11-07 00:47:19;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1495;1003;kenstar cup set;2020-11-07 03:03:20;Yes;300.00;380.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1496;1004;big ball;2020-11-07 03:55:50;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1497;1005;scrubber;2020-11-07 05:44:37;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1499;1007;Water gunsbig;2020-11-07 06:07:10;Yes;50.00;80.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1500;1008;Odinary bigthermos;2020-11-07 06:13:55;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1501;1009;Stainless Kettle;2020-11-07 06:49:57;Yes;1300.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1502;1010;kenstar small;2020-11-07 07:07:30;Yes;30.00;55.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1503;1010;ordinary cups;2020-11-07 07:07:30;Yes;42.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1504;1010;Feeding kzh;2020-11-07 07:07:30;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1505;1011;rings deco;2020-11-07 07:08:11;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1506;1012;sundabest s plate;2020-11-08 03:18:38;Yes;134.00;175.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1507;1012;luminarc cups;2020-11-08 03:18:38;Yes;200.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1508;1012;kitchen;2020-11-08 03:18:38;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1509;1013;lion brandkettle;2020-11-08 03:29:23;Yes;450.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1510;1013;mabati big bowl;2020-11-08 03:29:23;Yes;25.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1511;1014;duvet;2020-11-08 03:56:29;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1512;1015;medium ball;2020-11-08 04:57:41;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1513;1016;sufuria 8;2020-11-08 05:36:50;Yes;600.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1514;1016; lids big;2020-11-08 05:36:50;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1515;1017;Odinary bigthermos;2020-11-08 05:37:52;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1517;1019;acopal;2020-11-08 06:41:12;Yes;158.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1518;1020;cosget;2020-11-08 07:15:45;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1519;1020;kenstar cup set;2020-11-08 07:15:45;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1520;1021;short glass set;2020-11-09 04:49:58;Yes;450.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1521;1022;woolen duvet;2020-11-09 06:00:22;Yes;1500.00;1900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1522;1023;Odinary bigthermos;2020-11-09 07:00:04;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1523;1023;mabati;2020-11-09 07:00:04;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1524;1024;pegs;2020-11-10 03:00:58;Yes;6.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1525;1025;travel thermos;2020-11-10 06:20:24;Yes;800.00;1200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1526;1026;medium ball;2020-11-10 06:20:58;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1528;1028;Tea_un 9litre;2020-11-11 02:48:14;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1529;1029;doublecoluor mabati;2020-11-11 02:48:42;Yes;270.00;325.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1530;1030;Doctor doll;2020-11-11 05:21:54;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1531;1030;kings net;2020-11-11 05:21:54;Yes;500.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1532;1030;duvet;2020-11-11 05:21:54;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1533;1031;Coffee thermos;2020-11-11 06:03:49;Yes;400.00;700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1534;1032;redberry dinner;2020-11-11 06:17:09;Yes;158.00;250.00;24;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1535;1033;medium ball;2020-11-11 08:12:10;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1536;1034;Speed car;2020-11-12 00:29:39;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1537;1034;Butcher Knife;2020-11-12 00:29:39;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1538;1035;Tea_un 9litre;2020-11-12 02:58:02;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1539;1035;Feeding kzh;2020-11-12 02:58:02;Yes;10.00;20.00;7;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1540;1035;kenstar cup set;2020-11-12 02:58:02;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1541;1036;ever fresh set;2020-11-12 06:29:03;Yes;250.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1542;1037;kenstar cup set;2020-11-13 05:16:30;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1543;1038;OK cup;2020-11-13 05:20:33;Yes;120.00;150.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1544;1039;Tea_un 9litre;2020-11-13 06:37:06;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1545;1040;big ball;2020-11-13 06:42:27;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1546;1041;kid goggles;2020-11-13 07:25:11;Yes;25.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1547;1042;hand mixer;2020-11-14 03:54:54;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1548;1042;mashers big;2020-11-14 03:54:54;No;300.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1549;1042;grater simple;2020-11-14 03:54:54;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1550;1043;0rdinary kaulo plate;2020-11-14 04:54:21;Yes;34.00;50.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1551;1044;Odinary bigthermos;2020-11-14 05:11:31;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1552;1045;duvet;2020-11-14 05:59:41;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1553;1046;marvin;2020-11-14 07:06:52;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1554;1047;Kiruri No Handle;2020-11-14 07:09:15;Yes;2600.00;3200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1555;1048;Sieves kichungi;2020-11-14 08:04:47;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1556;1048; lids small ;2020-11-14 08:04:47;Yes;60.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1557;1049;scrubber;2020-11-15 03:53:52;Yes;30.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1558;1050;kidude marvin;2020-11-15 04:50:44;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1559;1051;big ball;2020-11-15 06:29:51;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1561;1053;0rdinary kaulo plate;2020-11-15 07:27:24;Yes;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1564;1055;Butcher Knife;2020-11-16 04:24:12;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1565;1055;rolling pin;2020-11-16 04:24:12;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1566;1056;scrubber;2020-11-16 07:46:37;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1567;1056;0rdinary kaulo plate;2020-11-16 07:46:37;Yes;34.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1568;1056;morden cups;2020-11-16 07:46:37;Yes;110.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1570;1058;Sieves kichungi;2020-11-17 00:55:52;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1571;1059;yellow patterned cup;2020-11-17 01:50:43;Yes;125.00;167.00;11;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1572;1059;Feeding kzh;2020-11-17 01:50:43;Yes;10.00;20.00;14;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1573;1059;Odinary bigthermos;2020-11-17 01:50:43;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1574;1060;mabati plate;2020-11-17 02:24:07;Yes;25.00;40.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1575;1061;dinner diva plate;2020-11-17 05:33:05;Yes;134.00;250.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1576;1061;small;2020-11-17 05:33:05;Yes;190.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1577;1062;shaker;2020-11-17 07:13:39;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1578;1063;Odinary bigthermos;2020-11-17 22:52:53;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1579;1064;wine;2020-11-18 06:46:06;Yes;133.00;200.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1580;1064;table cover big;2020-11-18 06:46:07;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1584;1065;nice green plate;2020-11-18 06:56:25;Yes;65.00;120.00;11;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1585;1066;big ball;2020-11-18 07:37:12;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1586;1067;Jumping rope biggest;2020-11-18 08:05:53;Yes;70.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1587;1068;11 litre Pcooker;2020-11-18 08:12:45;Yes;2800.00;3800.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1588;1068;Odinary smallthermos;2020-11-18 08:12:46;Yes;290.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1589;1069;kitchen mediumknife;2020-11-19 05:29:07;No;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1590;1069;grater simple;2020-11-19 05:29:07;No;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1591;1069;kidude small;2020-11-19 05:29:07;No;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1592;1070;0rdinary kaulo plate;2020-11-19 06:16:15;No;34.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1593;1070;Feeding kzh;2020-11-19 06:16:15;No;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1594;1071;dinner diva plate;2020-11-19 06:35:53;No;134.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1595;1071;small;2020-11-19 06:35:53;No;190.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1596;1071;kitchen mediumknife;2020-11-19 06:35:53;No;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1597;1072;sinia big;2020-11-20 06:45:00;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1598;1073;kenstar cup set;2020-11-20 07:09:42;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1599;1073;Redberry;2020-11-20 07:09:42;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1600;1074; lids small ;2020-11-20 07:11:50;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1602;1076;3 in one blender;2020-11-21 03:54:01;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1603;1077;table cover small;2020-11-21 04:22:52;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1604;1078;soft throw;2020-11-21 05:38:05;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1605;1079;vegetable cutter big;2020-11-21 08:30:57;Yes;1500.00;2200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1606;1080;lunch box;2020-11-22 04:12:31;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1607;1081;kenstar small;2020-11-22 04:46:50;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1608;1082;tenniss;2020-11-22 05:08:31;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1609;1083;water game;2020-11-22 05:27:25;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1610;1084;kenstar cup set;2020-11-22 06:26:23;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1611;1085;tenniss;2020-11-22 07:45:37;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1612;1086;0rdinary kaulo plate;2020-11-23 07:11:38;Yes;34.00;50.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1613;1087;wall ;2020-11-23 07:38:45;Yes;150.00;250.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1614;1088;kenstar cup set;2020-11-23 07:56:08;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1615;1089;bucket 5l;2020-11-23 08:01:06;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1616;1090;short servingspoon;2020-11-23 08:29:38;Yes;35.00;80.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1617;1090;Stainless thermos;2020-11-23 08:29:38;Yes;800.00;1100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1618;1090;Sgnature thermos;2020-11-23 08:29:38;Yes;1200.00;1700.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1619;1091;kenstar cup set;2020-11-23 23:47:34;Yes;300.00;380.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1620;1092;bucket 20L;2020-11-24 00:31:21;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1621;1093;eurovision;2020-11-24 02:11:23;Yes;67.00;100.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1622;1094; men socks;2020-11-24 03:46:30;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1623;1094;madazi spoon;2020-11-24 03:46:30;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1624;1095;Luminac;2020-11-24 04:06:26;Yes;185.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1625;1096;coloured saltshaker;2020-11-24 06:44:29;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1626;1097;birika 6liters;2020-11-24 08:11:03;Yes;1000.00;1300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1627;1098;teaun 5.8;2020-11-24 22:58:19;Yes;1700.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1628;1099;grill ;2020-11-24 23:25:58;No;3000.00;4000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1629;1100;belts;2020-11-25 00:48:41;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1630;1101;Motor and Pestle;2020-11-25 05:38:18;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1631;1101;OK cup;2020-11-25 05:38:18;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1632;1102;bucket 5l;2020-11-26 05:41:45;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1633;1103;scrubber;2020-11-26 06:08:59;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1634;1103;sponge scrubber;2020-11-26 06:08:59;Yes;15.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1635;1104;2334-10;2020-11-26 07:56:35;Yes;116.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1636;1104;2236-9;2020-11-26 07:56:36;Yes;67.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1637;1104;pearl band;2020-11-26 07:56:36;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1638;1104;Odinary smallthermos;2020-11-26 07:56:36;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1639;1104;Feeding kzh;2020-11-26 07:56:36;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1640;1104;0rdinary kaulo plate;2020-11-26 07:56:36;Yes;34.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1641;1104;OK cup;2020-11-26 07:56:36;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1642;1104;OK cup;2020-11-26 07:56:36;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1643;1105;Feeding kzh;2020-11-26 08:19:03;Yes;10.00;20.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1644;1105;0rdinary kaulo plate;2020-11-26 08:19:03;Yes;34.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1645;1106;Odinary bigthermos;2020-11-27 05:01:39;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1646;1106;grater simple;2020-11-27 05:01:39;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1647;1106;kitchen mediumknife;2020-11-27 05:01:39;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1648;1107;vegetable cutter big;2020-11-27 05:15:19;Yes;1500.00;2200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1649;1107;travel thermos;2020-11-27 05:15:19;No;800.00;1200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1650;1108;vegetable cutter big;2020-11-27 06:48:15;Yes;1500.00;2200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1651;1109;uteo small;2020-11-28 00:16:12;No;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1652;1110;Watches;2020-11-28 03:49:12;No;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1653;1110;chains;2020-11-28 03:49:12;No;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1654;1111;Shocky;2020-11-28 08:04:31;No;183.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1655;1112;uteo big;2020-11-29 04:49:39;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1656;1113;Stainless thermos;2020-11-29 05:15:50;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1657;1114;scrubber;2020-11-29 05:18:56;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1658;1115;lion brandkettle;2020-11-29 05:45:31;Yes;450.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1659;1116;monkey small;2020-11-29 05:52:27;No;250.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1660;1117;big ball;2020-11-29 06:45:54;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1661;1118;Odinary smallthermos;2020-11-29 07:27:58;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1662;1119;lunch box;2020-11-29 07:30:20;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1663;1119;Mexxi 1.3 thermos;2020-11-29 07:30:20;Yes;1700.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1664;1119; lids big;2020-11-29 07:30:21;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1665;1119; lids small ;2020-11-29 07:30:21;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1666;1120;brown patterned;2020-11-29 07:32:27;Yes;142.00;184.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1667;1121;pearl;2020-11-29 07:51:20;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1668;1122;balloon;2020-11-29 07:54:39;Yes;3.00;10.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1669;1123;Watches;2020-11-29 07:57:01;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1670;1124;mukwanjo;2020-11-29 08:19:56;Yes;275.00;600.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1671;1125;Odinary smallthermos;2020-11-30 01:56:31;Yes;290.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1672;1125;pegs;2020-11-30 01:56:31;Yes;6.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1673;1126;kenstar small;2020-11-30 05:37:32;Yes;30.00;55.00;18;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1674;1127;kichungi 4;2020-12-01 02:52:45;Yes;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1675;1127;sundabest flowered;2020-12-01 02:52:45;Yes;125.00;166.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1676;1127;0rdinary kaulo plate;2020-12-01 02:52:45;Yes;34.00;50.00;36;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1677;1127;sufuria 10;2020-12-01 02:52:45;Yes;700.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1678;1127;Feeding kzh;2020-12-01 02:52:45;Yes;10.00;20.00;36;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1679;1128;pearl band;2020-12-01 03:12:30;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1680;1128;cosget;2020-12-01 03:12:30;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1681;1128; lids small ;2020-12-01 03:12:30;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1682;1129;Odinary bigthermos;2020-12-01 05:05:00;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1683;1130;Meat Fork;2020-12-01 06:07:11;Yes;70.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1684;1130;tongs;2020-12-01 06:07:11;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1685;1131;3 in one blender;2020-12-01 07:28:43;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1686;1132;redberry 24;2020-12-02 08:20:09;Yes;550.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1687;1132;double rack;2020-12-02 08:20:09;Yes;650.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1688;1132;kichungi 4;2020-12-02 08:20:09;Yes;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1689;1132;kitchen mediumknife;2020-12-02 08:20:10;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1690;1132;Feeding kzh;2020-12-02 08:20:10;Yes;10.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1691;1132;sundabest s plate;2020-12-02 08:20:10;Yes;134.00;175.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1697;1133;multicolour plastic;2020-12-02 08:23:00;Yes;25.00;50.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1698;1134;big ball;2020-12-03 08:17:40;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1699;1134;mabati half;2020-12-03 08:17:40;Yes;50.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1700;1135;mabati;2020-12-03 08:25:05;No;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1701;1136;Tea_un 9litre;2020-12-04 04:12:15;No;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1702;1137;kamba;2020-12-04 06:19:09;No;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1703;1138;kichungi 4;2020-12-04 07:42:33;No;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1704;1138;mabati;2020-12-04 07:42:33;No;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1705;1138;0rdinary kaulo plate;2020-12-04 07:42:33;No;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1706;1139;kitchen mediumknife;2020-12-04 07:43:15;No;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1707;1140;chains;2020-12-04 07:50:42;No;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1708;1141;Odinary smallthermos;2020-12-05 01:48:15;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1709;1142;glass jugs;2020-12-05 03:50:31;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1710;1143;uteo small;2020-12-05 06:36:50;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1711;1144;uteo medium;2020-12-05 08:43:32;Yes;150.00;250.00;5;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1712;1145;stainless sieve;2020-12-06 03:07:35;Yes;220.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1713;1146;scrubber;2020-12-06 04:16:13;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1714;1147;umb 30;2020-12-06 04:23:07;Yes;300.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1715;1148;drawing board;2020-12-06 04:39:45;Yes;100.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1716;1149;bagged;2020-12-06 05:57:52;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1717;1150;Odinary bigthermos;2020-12-06 06:06:02;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1718;1151;Bucket 13;2020-12-06 06:11:38;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1719;1152;Odinary bigthermos;2020-12-06 07:01:07;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1720;1153;Odinary bigthermos;2020-12-07 00:30:48;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1721;1154;Excd thermos;2020-12-07 05:26:14;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1722;1155;rose kettie;2020-12-07 05:46:46;Yes;900.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1723;1156;whisk;2020-12-07 07:32:46;Yes;100.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1724;1157;shaker;2020-12-07 07:54:06;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1725;1158;plastic sieve;2020-12-08 06:35:53;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1726;1159;big ball;2020-12-08 23:36:05;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1727;1160;Feeding kzh;2020-12-09 00:43:54;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1728;1161;Shocky;2020-12-09 02:13:34;Yes;183.00;250.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1729;1162;sponge scrubber;2020-12-09 02:15:44;Yes;15.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1730;1163;hurra hoops;2020-12-09 02:50:25;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1731;1164;Stainless thermos;2020-12-09 06:23:57;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1732;1165;vegetable cutter big;2020-12-09 07:00:12;No;1500.00;2200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1733;1165;OK cup;2020-12-09 07:00:12;Yes;120.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1734;1166;scrubber;2020-12-09 07:30:59;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1735;1166;9 litre;2020-12-09 07:30:59;Yes;2600.00;3500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1736;1167;Tea_un 9litre;2020-12-10 05:43:09;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1737;1167;luminarc cups;2020-12-10 05:43:09;Yes;200.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1738;1167;big dinner ;2020-12-10 05:43:09;Yes;230.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1739;1168;tenniss;2020-12-10 05:50:29;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1740;1169;chondo;2020-12-10 05:52:23;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1741;1170;eurovision dinner pl;2020-12-10 06:05:31;Yes;91.00;117.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1742;1171;net mats;2020-12-10 06:15:04;Yes;42.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1743;1172;kenstar cup set;2020-12-10 06:16:03;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1744;1173;duvet;2020-12-10 06:25:44;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1745;1174;balloon;2020-12-10 08:06:48;Yes;3.00;10.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1746;1175;kenstar small;2020-12-10 08:37:16;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1747;1176;Teaspoons;2020-12-11 02:44:30;Yes;60.00;100.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1748;1177;scrubber;2020-12-11 02:47:21;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1749;1178;rolling pin;2020-12-11 02:53:47;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1750;1179;uteo big;2020-12-11 03:13:29;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1751;1180;scrubber;2020-12-11 05:27:16;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1752;1181;Excd thermos;2020-12-11 05:40:44;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1753;1182;medium ball;2020-12-11 06:12:27;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1754;1183;chains;2020-12-11 06:39:13;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1755;1184;0rdinary kaulo plate;2020-12-11 07:31:20;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1756;1185;big lid cup;2020-12-11 07:44:33;Yes;210.00;300.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1757;1186;lid cup small;2020-12-11 08:24:24;Yes;125.00;180.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1758;1187;Stainless thermos;2020-12-11 23:42:20;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1759;1187;Tea_un 9litre;2020-12-11 23:42:20;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1760;1188;umb 18;2020-12-12 00:20:08;Yes;180.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1762;1190;medium ball;2020-12-12 04:08:39;Yes;100.00;200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1763;1191;sport men socks;2020-12-12 08:09:40;Yes;30.00;70.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1764;1192;chapati;2020-12-12 08:20:53;Yes;130.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1765;1192;rolling pin;2020-12-12 08:20:53;Yes;50.00;70.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1766;1192;medium ball;2020-12-12 08:20:53;Yes;100.00;200.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1767;1192;pearl;2020-12-12 08:20:53;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1768;1193;0rdinary kaulo plate;2020-12-13 01:36:23;Yes;34.00;50.00;8;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1769;1194;Odinary bigthermos;2020-12-13 02:28:05;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1770;1195;balloon;2020-12-13 03:06:38;Yes;3.00;10.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1771;1196;scrubber;2020-12-13 03:28:23;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1772;1197;sufuria 10;2020-12-13 03:30:00;Yes;700.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1773;1198;kitchen mediumknife;2020-12-13 04:46:53;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1774;1198;kenstar small;2020-12-13 04:46:53;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1775;1198;scrubber;2020-12-13 04:46:53;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1776;1199;mabati medium bowl;2020-12-13 04:48:38;Yes;24.00;40.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1777;1199;mabati coluored;2020-12-13 04:48:38;Yes;38.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1778;1200;tenniss;2020-12-13 05:47:06;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1779;1201;0rdinary kaulo plate;2020-12-13 07:19:36;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1780;1202;shaker;2020-12-13 07:43:56;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1781;1203;bucket 20L;2020-12-13 08:31:10;No;150.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1782;1204;chondo;2020-12-14 06:22:05;Yes;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1783;1205;scrubber;2020-12-14 07:03:05;Yes;30.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1784;1205;pegs;2020-12-14 07:03:05;Yes;6.00;20.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1785;1206;scrubber;2020-12-14 07:23:15;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1786;1207;sufuria 10;2020-12-14 07:32:59;Yes;700.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1787;1208;bucket 5l;2020-12-15 06:28:19;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1788;1209;egg spoon;2020-12-15 07:19:52;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1789;1209;skimmer big;2020-12-15 07:19:52;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1790;1210;Odinary bigthermos;2020-12-15 08:00:55;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1791;1211;scrubber;2020-12-18 05:39:41;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1792;1212;Stainless cutleryset;2020-12-18 05:45:19;Yes;800.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1793;1213;kenstar smallcup;2020-12-18 06:31:27;Yes;275.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1794;1214;stainless 10;2020-12-18 07:07:01;Yes;700.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1795;1215;mashers small;2020-12-18 07:53:01;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1796;1215;Jumping rope biggest;2020-12-18 07:53:01;Yes;70.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1797;1215;small colourbowl;2020-12-18 07:53:01;Yes;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1799;1216;chondo;2020-12-18 08:34:50;Yes;700.00;900.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1800;1217;feeding forks;2020-12-19 02:14:43;Yes;8.00;20.00;12;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1801;1217;kenstar small;2020-12-19 02:14:43;Yes;30.00;55.00;6;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1802;1218;fibre tray;2020-12-19 02:15:09;Yes;130.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1803;1219;Stainless thermos;2020-12-19 03:53:33;Yes;800.00;1100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1804;1219;simple sugardish;2020-12-19 03:53:33;Yes;100.00;150.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1805;1219;teaspoon;2020-12-19 03:53:33;Yes;10.00;20.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1806;1220;tycoon;2020-12-19 05:31:31;Yes;400.00;550.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1807;1220;Serviet holder small;2020-12-19 05:31:31;Yes;130.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1808;1221;face;2020-12-19 08:35:18;Yes;16.00;30.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1809;1222;madazi spoon;2020-12-20 00:42:35;Yes;150.00;250.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1810;1223;balloon;2020-12-20 00:43:05;Yes;3.00;10.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1811;1224;kidude marvin;2020-12-20 00:43:24;Yes;150.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1812;1225;Tea_un 9litre;2020-12-20 01:14:15;Yes;1800.00;2500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1813;1225;mabati coluored;2020-12-20 01:14:15;Yes;38.00;50.00;6;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1814;1226;kid goggles;2020-12-20 01:38:03;Yes;25.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1815;1227;Odinary bigthermos;2020-12-20 03:52:05;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1816;1227;big ball;2020-12-20 03:52:05;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1818;1228;soft throw;2020-12-20 04:50:03;Yes;550.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1819;1229;woolen duvet;2020-12-20 04:53:52;Yes;1500.00;1900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1821;1230;Tea_un 9litre;2020-12-20 05:29:06;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1822;1231;goggles;2020-12-20 05:55:27;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1824;1233;kaulo Kettle;2020-12-20 07:39:30;Yes;550.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1826;1233;kenstar smallcup;2020-12-20 07:39:30;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1827;1234;lion brandkettle;2020-12-20 07:57:16;No;450.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1828;1235;diva;2020-12-20 08:01:04;No;142.00;200.00;6;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1829;1236;Feeding kzh;2020-12-21 02:07:48;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1830;1236;lid cup small;2020-12-21 02:07:48;Yes;125.00;180.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1831;1236;plastic sieve;2020-12-21 02:07:48;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1832;1236;0rdinary kaulo plate;2020-12-21 02:07:48;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1833;1236;kenstar cup set;2020-12-21 02:07:48;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1834;1236;Smal stainles Grater;2020-12-21 02:07:48;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1835;1236;Mella bigltray;2020-12-21 02:07:48;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1836;1237;multicolour plastic;2020-12-21 03:38:55;Yes;25.00;50.00;8;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1837;1238;Tea_un 9litre;2020-12-21 04:41:20;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1838;1239;dinner diva plate;2020-12-21 05:11:21;Yes;134.00;250.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1839;1240;Motor and Pestle;2020-12-21 05:23:01;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1840;1241;mabati coluored;2020-12-21 05:55:31;Yes;38.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1841;1242;Stainless thermos;2020-12-21 06:34:19;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1842;1242;Odinary bigthermos;2020-12-21 06:34:19;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1843;1243;potato chipper;2020-12-21 07:21:42;Yes;1000.00;1600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1844;1243;skimmer small;2020-12-21 07:21:42;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1845;1244;kid goggles;2020-12-21 07:47:18;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1846;1245;pegs;2020-12-21 08:06:52;Yes;6.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1847;1246;scrubber;2020-12-21 08:17:20;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1848;1247;small colourbowl;2020-12-21 08:47:42;Yes;20.00;40.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1849;1248;medium ball;2020-12-21 08:58:12;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1850;1249;Wegas hotpot;2020-12-22 00:39:04;Yes;4200.00;5500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1851;1250;kid goggles;2020-12-22 01:26:48;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1852;1251;silver guns;2020-12-22 02:30:14;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1853;1252;mabati;2020-12-22 03:34:59;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1854;1252;Odinary bigthermos;2020-12-22 03:34:59;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1855;1253;0rdinary kaulo plate;2020-12-22 05:30:18;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1856;1253;grater simple;2020-12-22 05:30:18;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1857;1254;small door mats;2020-12-22 05:42:29;Yes;160.00;250.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1858;1254;egg spoon;2020-12-22 05:42:29;Yes;50.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1859;1254;double rack;2020-12-22 05:42:29;Yes;650.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1860;1255;Serving Mella;2020-12-22 05:53:35;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1861;1256;unbreakable plates;2020-12-22 06:14:59;Yes;100.00;150.00;24;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1862;1256; lids big;2020-12-22 06:14:59;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1863;1257;shaker;2020-12-22 07:52:36;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1864;1258;Wall clocksmall;2020-12-23 03:08:01;No;600.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1865;1259;duvet;2020-12-23 05:39:11;No;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1866;1260;Odinary bigthermos;2020-12-23 06:02:09;No;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1867;1261;Feeding kzh;2020-12-23 07:17:50;No;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1868;1261;short glass set;2020-12-23 07:17:50;No;450.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1869;1262;short glass set;2020-12-23 07:18:56;No;450.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1870;1262;Feeding kzh;2020-12-23 07:18:56;No;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1871;1263;0rdinary kaulo plate;2020-12-23 07:34:20;No;34.00;50.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1872;1264;rings plain;2020-12-23 08:03:50;No;30.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1873;1265;indian keyholder;2020-12-24 02:57:22;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1874;1265;panty holder;2020-12-24 02:57:23;Yes;230.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1875;1265;medium ball;2020-12-24 02:57:23;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1876;1265;kitchen;2020-12-24 02:57:23;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1877;1265;singlewoodenspoon;2020-12-24 02:57:23;Yes;70.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1878;1266;kichungi 3;2020-12-24 03:47:40;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1879;1266;Sieves kichungi;2020-12-24 03:47:40;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1880;1267;balloon;2020-12-24 03:54:16;Yes;3.00;10.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1881;1268;medium ball;2020-12-24 04:00:12;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1882;1269;0rdinary kaulo plate;2020-12-24 04:43:38;Yes;34.00;50.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1883;1270;3 in one blender;2020-12-24 05:09:45;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1884;1271;woolen duvet;2020-12-24 05:22:05;Yes;1500.00;1900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1885;1272;big ball;2020-12-24 05:38:44;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1886;1273;kenstar smallcup;2020-12-24 05:59:26;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1887;1273;unbreakable plates;2020-12-24 05:59:26;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1888;1274;unbreakable plates;2020-12-24 06:00:02;Yes;100.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1889;1274;kenstar smallcup;2020-12-24 06:00:02;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1890;1275;knstar smallcup;2020-12-24 06:00:52;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1891;1275;unbreakable plates;2020-12-24 06:00:52;Yes;100.00;150.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1892;1276;big ball;2020-12-24 06:04:49;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1893;1277;woolen duvet;2020-12-24 06:53:55;Yes;1500.00;1900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1894;1278;rings deco;2020-12-24 07:26:18;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1896;1280;kenstar smallcup;2020-12-24 08:03:47;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1897;1281;grater simple;2020-12-24 08:40:34;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1898;1282;mellaware plates;2020-12-24 23:21:11;Yes;120.00;150.00;7;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1899;1283;pada car;2020-12-24 23:25:52;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1900;1283;pada car;2020-12-24 23:25:52;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1901;1283;pada car;2020-12-24 23:25:52;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1902;1284;balloon;2020-12-25 01:32:21;Yes;3.00;10.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1903;1285;madazi spoon;2020-12-26 04:17:33;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1904;1285;pegs;2020-12-26 04:17:34;Yes;6.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1905;1285;face;2020-12-26 04:17:34;Yes;16.00;30.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1906;1286;shaker;2020-12-26 04:39:32;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1907;1287;0rdinary kaulo plate;2020-12-26 06:16:10;Yes;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1908;1288;kid goggles;2020-12-26 06:30:23;Yes;25.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1909;1288;balloon;2020-12-26 06:30:23;Yes;3.00;10.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1910;1288;big ball;2020-12-26 06:30:23;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1911;1289;fibre tray;2020-12-26 07:31:45;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1912;1290;medium ball;2020-12-26 07:52:36;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1913;1291;0rdinary kaulo plate;2020-12-27 00:07:53;No;34.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1914;1292;Watches;2020-12-27 01:01:02;No;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1915;1293;Odinary smallthermos;2020-12-27 02:03:41;No;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1916;1294;towel 7;2020-12-27 03:22:27;No;500.00;700.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1917;1295;kitchen small Knives;2020-12-27 05:28:46;No;80.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1918;1295;feeding forks;2020-12-27 05:28:46;No;8.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1919;1295;grater simple;2020-12-27 05:28:46;No;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1920;1296;chains;2020-12-27 05:43:35;No;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1921;1297;chains;2020-12-27 05:49:41;No;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1922;1298;teaun 5.8;2020-12-27 06:14:14;No;1700.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1923;1298;0rdinary kaulo plate;2020-12-27 06:14:14;No;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1924;1299;small colourbowl;2020-12-27 06:48:56;No;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1925;1299;grater simple;2020-12-27 06:48:56;No;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1926;1299;luminarc bowls;2020-12-27 06:48:56;No;90.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1927;1300;small door mats;2020-12-27 06:49:23;No;160.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1928;1301;coffee cup;2020-12-27 07:03:52;No;125.00;167.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1929;1302;Serving spoon;2020-12-27 07:08:35;No;70.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1930;1302;kichungi small;2020-12-27 07:08:35;No;80.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1931;1303;small door mats;2020-12-27 07:09:09;No;160.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1932;1304;luminarc glasses;2020-12-27 07:13:05;No;600.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1933;1304;small door mats;2020-12-27 07:13:05;No;160.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1934;1305;multicolour plastic;2020-12-27 08:17:11;No;25.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1935;1306;multicolour plastic;2020-12-27 08:23:23;No;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1936;1307;Odinary bigthermos;2020-12-28 02:24:18;Yes;350.00;450.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1937;1307;kenstar cup set;2020-12-28 02:24:18;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1938;1307;kenstar small;2020-12-28 02:24:18;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1939;1308;kenstar cup set;2020-12-28 03:30:10;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1940;1309;spray bottle;2020-12-28 05:48:15;Yes;170.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1941;1309;big ball;2020-12-28 05:48:15;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1942;1310;coloured ;2020-12-28 06:18:09;Yes;1200.00;1500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1943;1311;kid goggles;2020-12-28 07:05:03;Yes;25.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1944;1312;Tea_un 9litre;2020-12-28 07:11:24;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1945;1313;kenstar cup set;2020-12-28 07:27:28;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1946;1314;bucket 20L;2020-12-28 08:35:16;Yes;150.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1947;1314;kid goggles;2020-12-28 08:35:16;Yes;25.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1948;1315;stainless sieve;2020-12-28 08:42:16;Yes;220.00;300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1949;1316;coloured balls;2020-12-28 08:43:52;Yes;30.00;100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1950;1317;Feeding kzh;2020-12-29 01:23:09;Yes;10.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1951;1317;mabati coluored;2020-12-29 01:23:09;Yes;38.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1952;1318;kenstar small;2020-12-29 05:38:24;Yes;30.00;55.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1953;1319;kenstar small;2020-12-29 05:38:43;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1955;1321;bucket 20L;2020-12-29 08:23:25;Yes;150.00;200.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1956;1322;kenstar cup set;2020-12-30 03:16:53;Yes;300.00;380.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1957;1323;Odinary bigthermos;2020-12-30 03:52:54;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1958;1324;face;2020-12-30 03:57:15;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1959;1325;always thermo;2020-12-30 07:39:05;Yes;1100.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1960;1326;kaulu;2020-12-30 07:41:56;Yes;90.00;120.00;7;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1961;1327;sinia stainless;2021-01-01 01:45:37;Yes;250.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1962;1328;silver guns;2021-01-01 02:16:10;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1963;1329;disco watch;2021-01-01 04:18:14;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1964;1330;plastic jug;2021-01-01 04:39:32;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1965;1330;TDL;2021-01-01 04:39:32;Yes;800.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1966;1330;bucket 15L;2021-01-01 04:39:32;Yes;130.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1967;1330;mabati big bowl;2021-01-01 04:39:32;Yes;25.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1968;1331;kichungi 2;2021-01-01 05:02:41;Yes;7.00;15.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1969;1331;Odinary smallthermos;2021-01-01 05:02:41;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1970;1331;Bucket 16;2021-01-01 05:02:41;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1971;1332;table cover small;2021-01-01 06:57:42;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1972;1333;nunix gas;2021-01-01 07:42:09;Yes;2500.00;3500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1973;1334;Cup thermos;2021-01-01 23:32:45;No;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1974;1334;Odinary bigthermos;2021-01-01 23:32:45;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1975;1335;kenstar cup set;2021-01-02 00:23:44;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1976;1336;goggles;2021-01-02 01:19:00;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1977;1337;scrubber;2021-01-02 05:17:36;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1978;1337;pearl;2021-01-02 05:17:36;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1979;1338;kichungi 4;2021-01-02 05:34:34;Yes;20.00;40.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1980;1339;light water;2021-01-02 05:49:29;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1981;1340; lids small ;2021-01-02 05:50:53;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1982;1341;beautiful thermo;2021-01-02 06:47:50;Yes;700.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1983;1341;350l thermo;2021-01-02 06:47:50;Yes;400.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1984;1341;lunch box;2021-01-02 06:47:50;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1985;1342;silver guns;2021-01-02 06:59:36;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1986;1342;balloon;2021-01-02 06:59:36;Yes;3.00;10.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1987;1343;doublecoluor mabati;2021-01-02 07:39:00;Yes;270.00;325.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1988;1343;gift wrapper;2021-01-02 07:39:00;Yes;8.00;25.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1989;1344;school socks;2021-01-02 07:59:23;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+1990;1345;short glass set;2021-01-03 03:07:08;Yes;450.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1991;1346;Regal 2l thermos;2021-01-03 04:45:52;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1992;1347;Odinary bigthermos;2021-01-03 05:12:30;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1993;1348;school socks;2021-01-03 06:13:35;Yes;30.00;50.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1994;1349;kenstar smallcup;2021-01-03 06:17:56;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1995;1350;scrubber;2021-01-03 06:36:11;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1996;1351;coloured balls;2021-01-03 07:15:07;Yes;30.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1997;1352;Small Bottle;2021-01-03 07:15:48;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1998;1353;bucket 15L;2021-01-03 07:24:43;Yes;130.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+1999;1354;Odinary bigthermos;2021-01-04 04:57:15;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2000;1354;kichungi 3;2021-01-04 04:57:15;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2001;1354;bagged;2021-01-04 04:57:15;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2002;1355;mabati big bowl;2021-01-04 05:52:45;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2003;1356;kid goggles;2021-01-04 06:09:41;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2004;1357;kenstar small;2021-01-05 04:27:39;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2005;1358;rolling pin;2021-01-05 04:45:29;Yes;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2006;1358;regal 3ltrs;2021-01-05 04:45:29;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2007;1358;OK cup;2021-01-05 04:45:29;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2008;1359;kenstar small;2021-01-05 08:35:13;Yes;30.00;55.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2009;1360;Odinary smallthermos;2021-01-06 01:20:17;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2010;1361;kitchen mediumknife;2021-01-06 01:25:22;Yes;100.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2011;1361;ordinary knife;2021-01-06 01:25:22;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2012;1362;Watches;2021-01-06 02:05:46;Yes;150.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2013;1363;bucket 20L;2021-01-06 02:12:34;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2014;1364;kid goggles;2021-01-06 02:44:19;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2015;1365;water set;2021-01-06 06:11:47;Yes;1200.00;1600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2016;1365;hand mixer;2021-01-06 06:11:47;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2017;1365;Tea_un 7litre;2021-01-06 06:11:47;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2018;1366;Odinary smallthermos;2021-01-06 07:38:46;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2019;1367;freedom pan;2021-01-06 23:51:26;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2020;1368;kenstar small;2021-01-07 03:16:15;Yes;30.00;55.00;42;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2021;1369;kichungi 3;2021-01-07 03:19:55;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2022;1370;kenstar small;2021-01-07 03:21:17;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2023;1371;light water;2021-01-07 05:47:05;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2024;1371;Big Bottle;2021-01-07 05:47:05;Yes;300.00;400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2025;1372;mordern grater;2021-01-07 07:27:34;Yes;150.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2026;1372;plastic jug;2021-01-07 07:27:34;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2027;1372;kid goggles;2021-01-07 07:27:34;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2028;1372;grater simple;2021-01-07 07:27:34;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2029;1373;key holder;2021-01-07 07:49:33;Yes;60.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2030;1374;small door mats;2021-01-07 08:23:23;Yes;160.00;250.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2031;1375;pegs;2021-01-08 00:07:14;No;6.00;20.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2032;1375;sponge scrubber;2021-01-08 00:07:14;No;15.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2033;1376;regal 3ltrs;2021-01-09 01:53:23;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2034;1376;kenstar smallcup;2021-01-09 01:53:23;Yes;275.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2035;1377;scrubber;2021-01-09 02:30:19;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2036;1378;Regal 2l thermos;2021-01-09 02:54:28;Yes;1500.00;2000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2037;1379;small door mats;2021-01-09 04:54:53;Yes;160.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2038;1380;black;2021-01-09 04:55:49;Yes;117.00;167.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2039;1381;karai  signature;2021-01-09 05:48:31;Yes;1100.00;1600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2040;1381;scrubber;2021-01-09 05:48:31;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2041;1382;Odinary smallthermos;2021-01-10 02:43:33;No;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2042;1382;medium ball;2021-01-10 02:43:33;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2043;1383;kenstar cup set;2021-01-10 03:05:27;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2044;1383;kichungi 2;2021-01-10 03:05:27;Yes;7.00;15.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2045;1384;lunch box;2021-01-10 03:32:24;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2046;1385;pearl;2021-01-10 03:39:06;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2047;1386;medium ball;2021-01-10 05:11:01;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2048;1387;nice green plate;2021-01-10 06:10:04;Yes;65.00;120.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2049;1388;mabati plate;2021-01-11 05:47:22;Yes;25.00;40.00;8;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2050;1388;pearl band;2021-01-11 05:47:22;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2051;1389;plastic jug;2021-01-11 05:53:36;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2052;1390;high class thermo;2021-01-11 06:29:03;No;600.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2053;1390;mashers big;2021-01-11 06:29:03;No;300.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2054;1391;OK cup;2021-01-11 08:05:19;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2055;1392;regal 3ltrs;2021-01-12 00:26:30;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2056;1393;Odinary bigthermos;2021-01-12 04:10:04;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2057;1393;kichungi 3;2021-01-12 04:10:04;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2058;1394;rings plain;2021-01-12 04:20:13;Yes;30.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2059;1394;rings deco;2021-01-12 04:20:13;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2060;1395;stainless sieve;2021-01-12 07:02:11;Yes;220.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2061;1396;signature dotted;2021-01-12 08:14:04;Yes;208.00;250.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2062;1397;scrubber;2021-01-12 08:36:24;No;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2063;1398;kichungi 4;2021-01-13 02:47:14;No;20.00;40.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2064;1399;light water;2021-01-13 05:49:30;No;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2065;1400;plastic jug;2021-01-13 06:13:41;No;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2066;1401;doublecoluor mabati;2021-01-13 06:21:18;No;270.00;325.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2067;1402;mabati plate;2021-01-13 06:26:48;No;25.00;40.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2068;1403;rings deco;2021-01-14 01:07:33;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2069;1404;medium ball;2021-01-14 07:40:35;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2070;1404;shaker;2021-01-14 07:40:35;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2071;1405;Bucket 13;2021-01-14 08:12:52;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2072;1406;scrubber;2021-01-14 08:32:02;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2073;1407;Motor and Pestle;2021-01-15 04:03:45;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2074;1408;kenstar cup set;2021-01-15 04:51:35;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2075;1408;kitchen;2021-01-15 04:51:35;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2076;1409;kid goggles;2021-01-15 06:22:07;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2077;1410;Speed car;2021-01-15 07:30:07;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2078;1411;scrubber;2021-01-15 07:34:16;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2079;1412;electric stainless;2021-01-15 08:19:18;Yes;3600.00;4200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2080;1413;teaspoon;2021-01-15 08:22:56;Yes;10.00;20.00;12;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2081;1414;Tea_un 9litre;2021-01-15 08:25:15;Yes;1800.00;2500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2082;1415;0rdinary kaulo plate;2021-01-16 03:32:19;Yes;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2083;1416;Sieves kichungi;2021-01-16 07:04:10;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2084;1417;0.5l thermos;2021-01-16 07:13:04;Yes;500.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2085;1418;Luminac;2021-01-16 08:10:34;No;185.00;250.00;18;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2086;1418;small colourbowl;2021-01-16 08:10:34;Yes;20.00;40.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2087;1418;teaspoon;2021-01-16 08:10:34;Yes;10.00;20.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2088;1419;Speed car;2021-01-16 08:25:55;Yes;350.00;450.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2089;1420;nice green plate;2021-01-17 02:58:41;Yes;65.00;120.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2090;1420;kitchen;2021-01-17 02:58:41;No;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2091;1421;woolen duvet;2021-01-17 05:00:06;Yes;1500.00;1900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2092;1421;lunch box;2021-01-17 05:00:06;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2093;1421;Sieves kichungi;2021-01-17 05:00:06;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2094;1422;Tea_un 15litre;2021-01-17 06:58:00;Yes;6300.00;7500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2095;1422;unbreakable small;2021-01-17 06:58:00;Yes;84.00;130.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2096;1422;kichungi 4;2021-01-17 06:58:00;Yes;20.00;40.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2098;1424;Feeding kzh;2021-01-17 07:39:31;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2099;1424;Small Bottle;2021-01-17 07:39:31;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2100;1425;Small Bottle;2021-01-17 08:00:34;Yes;180.00;300.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2101;1426;monkey medium;2021-01-18 03:30:56;Yes;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2102;1427;duvet;2021-01-18 05:40:16;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2103;1428;duvet;2021-01-18 05:51:52;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2104;1429;0rdinary kaulo plate;2021-01-18 06:20:24;Yes;34.00;50.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2105;1430;kitchen mediumknife;2021-01-18 08:28:24;Yes;100.00;150.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2106;1430;scrubber;2021-01-18 08:28:24;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2107;1431;kenstar small;2021-01-19 02:11:06;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2108;1432;lunch box;2021-01-19 03:02:28;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2109;1432;350l thermo;2021-01-19 03:02:28;Yes;400.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2110;1432;light water;2021-01-19 03:02:28;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2111;1433;kenstar big;2021-01-19 04:34:30;Yes;45.00;53.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2112;1433;350l thermo;2021-01-19 04:34:30;Yes;400.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2113;1434;OK cup;2021-01-19 07:47:53;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2114;1435;lemon sq;2021-01-20 01:32:42;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2115;1436;kenstar smallcup;2021-01-20 01:40:52;Yes;275.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2116;1436;kenstar small;2021-01-20 01:40:52;Yes;30.00;55.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2117;1437;glass sets;2021-01-20 08:28:41;Yes;1200.00;1700.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2118;1438;Tea_un 9litre;2021-01-21 00:56:12;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2119;1439;Tea_un 9litre;2021-01-21 05:57:59;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2120;1439;buckets;2021-01-21 05:57:59;Yes;450.00;600.00;8;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2121;1440;table cover small;2021-01-21 06:52:22;Yes;70.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2122;1441;kenstar smallcup;2021-01-21 07:01:27;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2123;1442;sport men socks;2021-01-21 07:37:20;Yes;30.00;70.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2124;1443;Odinary bigthermos;2021-01-21 08:19:40;Yes;350.00;450.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2125;1444;kenstar cup set;2021-01-22 04:14:27;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2126;1444;scrubber;2021-01-22 04:14:27;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2127;1445;mabati coluored;2021-01-22 08:18:55;Yes;38.00;50.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2128;1446;woolen duvet;2021-01-22 22:04:50;No;1500.00;1900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2129;1447;Sieves kichungi;2021-01-23 03:02:50;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2130;1447;frying pan;2021-01-23 03:02:50;Yes;220.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2131;1447;mwiko;2021-01-23 03:02:50;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2132;1447;Feeding kzh;2021-01-23 03:02:50;Yes;10.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2133;1448;chains;2021-01-23 03:33:58;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2134;1449;sponge scrubber;2021-01-23 05:08:30;Yes;15.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2135;1450;kenstar small;2021-01-23 05:29:02;Yes;30.00;55.00;120;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2136;1451;Odinary bigthermos;2021-01-23 07:59:37;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2137;1452;shaker;2021-01-23 08:00:01;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2138;1453;nice green plate;2021-01-24 02:40:06;Yes;65.00;120.00;18;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2139;1454;kenstar small;2021-01-24 06:44:08;Yes;30.00;55.00;8;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2140;1455;medium ball;2021-01-24 06:57:32;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2141;1455;chondo;2021-01-24 06:57:32;Yes;700.00;900.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2142;1456;kenstar smallcup;2021-01-24 06:58:42;Yes;275.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2143;1457;shortheavy spoon;2021-01-24 07:56:03;Yes;70.00;120.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2144;1458;PC plates;2021-01-24 08:43:24;Yes;110.00;150.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2145;1459;Odinary smallthermos;2021-01-25 05:51:05;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2146;1460;Odinary bigthermos;2021-01-25 06:03:53;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2147;1460;mabati;2021-01-25 06:03:53;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2148;1461;always thermo;2021-01-25 06:35:40;Yes;1100.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2149;1462;shaker;2021-01-26 05:22:01;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2150;1463;tenniss;2021-01-26 06:34:47;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2151;1464;Tea_un 9litre;2021-01-27 04:16:17;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2152;1465;2236 plates;2021-01-27 08:11:06;Yes;67.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2153;1465;PC plates;2021-01-27 08:11:06;Yes;110.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2154;1465;feeding forks;2021-01-27 08:11:06;Yes;8.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2155;1465;mabati coluored;2021-01-27 08:11:06;Yes;38.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2156;1465;heavy mella bowls;2021-01-27 08:11:06;Yes;63.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2157;1465;kenstar small;2021-01-27 08:11:06;Yes;30.00;55.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2158;1465;medium ball;2021-01-27 08:11:06;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2159;1465;multicolour plastic;2021-01-27 08:11:06;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2160;1466;kenstar small;2021-01-28 05:12:24;No;30.00;55.00;120;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2161;1466;kenster plain cup;2021-01-28 05:12:24;No;430.00;500.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2162;1466;plastic sieve;2021-01-28 05:12:24;No;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2166;1467;plastic sieve;2021-01-28 05:18:59;No;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2167;1467;sufuria 9;2021-01-28 05:18:59;No;600.00;900.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2168;1468;scrubber;2021-01-28 05:28:48;No;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2169;1468;rolling pin;2021-01-28 05:28:48;No;50.00;70.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2170;1469;light water;2021-01-29 02:08:39;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2171;1470;net holder;2021-01-29 05:15:52;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2172;1470;Leaf plate;2021-01-29 05:15:52;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2173;1470;covid bucket;2021-01-29 05:15:52;Yes;350.00;650.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2174;1471;plasticspoon set;2021-01-30 03:07:45;Yes;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2175;1472;doublecoluor mabati;2021-01-30 05:58:28;Yes;270.00;325.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2176;1472;nice green plate;2021-01-30 05:58:28;Yes;65.00;120.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2177;1472;kitchen mediumknife;2021-01-30 05:58:28;Yes;100.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2178;1472;Serving spoon;2021-01-30 05:58:29;Yes;70.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2179;1472;OK cup;2021-01-30 05:58:29;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2180;1472;Feeding kzh;2021-01-30 05:58:29;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2181;1472;mabati coluored;2021-01-30 05:58:29;Yes;38.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2182;1473;tenniss;2021-01-30 07:52:46;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2183;1473;350l thermo;2021-01-30 07:52:46;Yes;400.00;750.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2184;1474;plastic sieve;2021-01-31 04:03:22;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2185;1475;basin stainless;2021-01-31 08:00:54;No;550.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2186;1476;Odinary bigthermos;2021-01-31 08:30:39;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2187;1477;Stainless thermos;2021-01-31 08:37:12;Yes;800.00;1100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2188;1478;kenstar cup set;2021-01-31 23:40:32;Yes;300.00;380.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2189;1479;nice green plate;2021-02-01 05:10:53;Yes;65.00;120.00;10;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2190;1480;Serving Mella;2021-02-01 06:51:46;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2191;1481;2236-9;2021-02-01 08:14:16;Yes;67.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2192;1482;cc3006;2021-02-01 08:36:18;Yes;33.00;60.00;3;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2193;1482;mabati big bowl;2021-02-01 08:36:18;Yes;25.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2194;1483;Feeding kzh;2021-02-02 03:44:37;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2195;1483;feeding forks;2021-02-02 03:44:37;Yes;8.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2196;1484;kid goggles;2021-02-02 08:25:31;Yes;25.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2197;1485;tenniss;2021-02-02 08:27:52;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2198;1486;Butcher Knife;2021-02-02 23:17:33;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2199;1487;kenstar smallcup;2021-02-03 03:06:27;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2200;1488;rings deco;2021-02-04 05:27:23;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2201;1488;rings plain;2021-02-04 05:27:23;Yes;30.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2202;1489;signat thermo od;2021-02-04 05:55:34;Yes;1000.00;1300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2203;1489;scrubber;2021-02-04 05:55:34;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2204;1489;sinia stainless;2021-02-04 05:55:34;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2205;1490;kenstar smallcup;2021-02-04 06:19:27;Yes;275.00;350.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2206;1491;skimmer big;2021-02-05 00:54:29;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2207;1492;mabati;2021-02-06 04:11:29;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2208;1493; dinner bowls;2021-02-06 07:31:35;Yes;180.00;200.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2209;1493;chains;2021-02-06 07:31:36;Yes;20.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2210;1494;mabati;2021-02-06 07:32:51;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2211;1495;Dog Chuchu;2021-02-06 09:16:38;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2212;1495;kitchen small Knives;2021-02-06 09:16:38;Yes;80.00;120.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2213;1495;glass sets;2021-02-06 09:16:39;Yes;1200.00;1700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2214;1495;Motor and Pestle;2021-02-06 09:16:39;Yes;400.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2215;1495;tycoon;2021-02-06 09:16:39;Yes;400.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2216;1495;Spoon holder;2021-02-06 09:16:39;Yes;350.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2217;1496;Odinary smallthermos;2021-02-06 09:18:15;Yes;290.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2218;1497;nice green plate;2021-02-07 04:18:46;No;65.00;120.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2219;1498;disco watch;2021-02-07 04:20:07;No;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2220;1499;plasticspoon set;2021-02-07 04:43:55;No;450.00;600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2221;1500;Kiruri No Handle;2021-02-07 05:50:54;No;2600.00;3200.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2222;1501;sunda mugset;2021-02-07 06:15:14;No;750.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2223;1502;kidude marvin;2021-02-08 05:30:32;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2224;1502;mellaware plates;2021-02-08 05:30:33;Yes;120.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2225;1503;bagged;2021-02-08 07:37:06;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2226;1503;light water;2021-02-08 07:37:06;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2227;1504;Odinary bigthermos;2021-02-09 03:46:15;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2228;1504;mellaware plates;2021-02-09 03:46:15;Yes;120.00;150.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2229;1505;Mella smalltray;2021-02-09 06:21:36;Yes;150.00;250.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2230;1506;goggles;2021-02-09 08:21:15;No;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2231;1507; scoop spoon;2021-02-10 00:47:48;Yes;120.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2232;1507;net holder;2021-02-10 00:47:48;Yes;150.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2233;1507;egg spoon;2021-02-10 00:47:48;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2234;1508;kenstar smallcup;2021-02-10 02:31:15;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2235;1509;happy home;2021-02-10 05:54:24;Yes;2200.00;3200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2236;1510;covid bucket;2021-02-10 08:26:20;Yes;350.00;650.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2237;1511;medium ball;2021-02-10 08:29:54;Yes;100.00;200.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2238;1512;Feeding kzh;2021-02-11 03:26:10;No;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2239;1513;high class thermo;2021-02-11 04:52:32;No;600.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2240;1514;chondo;2021-02-11 07:11:32;No;700.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2241;1515;black pan granite;2021-02-11 07:52:30;No;1000.00;1500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2242;1516;plastic jug;2021-02-11 23:44:39;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2243;1517;Tea_un 9litre;2021-02-12 03:52:12;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2244;1518;Water gunsbig;2021-02-12 07:51:00;Yes;50.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2245;1519;ordinary knife;2021-02-12 08:40:20;Yes;25.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2246;1520;net mats;2021-02-13 03:45:38;No;42.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2247;1520;glss jug 35;2021-02-13 03:45:38;No;280.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2248;1521;bucket 15L;2021-02-13 08:19:07;No;130.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2249;1521;kenstar babyplate;2021-02-13 08:19:07;No;25.00;35.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2250;1521;sticker hanger;2021-02-13 08:19:08;No;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2251;1522;ear rings 7;2021-02-13 08:21:09;No;5.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2252;1523;frying pan;2021-02-14 02:26:20;Yes;220.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2253;1524;Tea_un 9litre;2021-02-14 03:11:43;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2254;1525;Odinary smallthermos;2021-02-14 04:56:03;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2255;1526;plastic jug;2021-02-14 05:30:17;Yes;80.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2256;1527;goggles;2021-02-14 05:42:01;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2257;1528;Black set;2021-02-14 08:40:20;Yes;4500.00;7500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2258;1529;chapati;2021-02-15 07:25:36;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2259;1530;net mats;2021-02-16 07:55:34;Yes;42.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2260;1530;sufuria 9;2021-02-16 07:55:34;Yes;600.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2261;1531;bucket 10L;2021-02-16 08:04:00;Yes;100.00;130.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2262;1531;table cover big;2021-02-16 08:04:00;Yes;130.00;180.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2263;1532;double rack;2021-02-16 08:25:23;Yes;650.00;900.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2264;1533;fibre tray;2021-02-17 07:01:25;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2265;1533;sponge scrubber;2021-02-17 07:01:25;Yes;15.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2266;1534;Excd thermos;2021-02-17 07:32:11;Yes;650.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2267;1535;chair;2021-02-19 08:08:24;Yes;480.00;580.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2268;1536;Watches;2021-02-19 08:14:41;Yes;150.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2269;1537;kenstar smallcup;2021-02-20 00:32:58;No;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2270;1538;chains;2021-02-20 07:39:08;No;20.00;100.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2271;1539;Black set;2021-02-20 07:55:16;No;4500.00;7500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2272;1540;country;2021-02-20 08:20:18;No;170.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2273;1541;grater simple;2021-02-20 08:29:09;No;30.00;50.00;3;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2274;1542;Odinary smallthermos;2021-02-21 08:21:19;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2275;1542;lunch box;2021-02-21 08:21:19;Yes;300.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2276;1542;light water;2021-02-21 08:21:20;Yes;250.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2277;1542;scrubber;2021-02-21 08:21:20;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2278;1542;face;2021-02-21 08:21:20;Yes;16.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2279;1543;chips basket;2021-02-22 02:54:51;No;1300.00;1600.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2280;1544;Odinary smallthermos;2021-02-22 08:09:52;No;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2281;1544;mabati coluored;2021-02-22 08:09:52;No;38.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2282;1544;hand bag;2021-02-22 08:09:52;No;250.00;500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2283;1545;Tea_un 9litre;2021-03-03 16:11:17;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2284;1545;Luminac;2021-03-03 16:11:17;Yes;185.00;250.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2285;1545;sunda mugset;2021-03-03 16:11:17;Yes;750.00;1400.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2286;1545;plastic jug;2021-03-03 16:11:18;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2287;1545;Stainless thermos;2021-03-03 16:11:18;Yes;800.00;1100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2289;1546;scrubber;2021-03-03 16:53:33;Yes;30.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2290;1547;Double hotpot;2021-03-03 18:00:15;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2291;1547;Tea_un 9litre;2021-03-03 18:00:15;Yes;1800.00;2500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2292;1548;chair;2021-03-03 18:54:11;Yes;480.00;580.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2293;1549;Water gunsbig;2021-03-03 19:29:44;Yes;50.00;80.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2294;1549;Kiruri Handle;2021-03-03 19:29:44;No;2700.00;3500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2295;1550;Water gunsbig;2021-03-03 19:30:25;Yes;50.00;80.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2296;1551;Odinary bigthermos;2021-03-04 11:26:14;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2297;1551;sticker hanger;2021-03-04 11:26:14;Yes;60.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2298;1552;stainless sieve;2021-03-04 14:59:25;Yes;220.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2299;1553;Feeding kzh;2021-03-04 15:56:05;Yes;10.00;20.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2300;1553;feeding forks;2021-03-04 15:56:05;Yes;8.00;20.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2301;1554;Odinary bigthermos;2021-03-04 15:59:50;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2302;1555;ordinary chapatipan;2021-03-04 16:09:01;No;450.00;550.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2303;1556;coloured saltshaker;2021-03-04 16:57:22;Yes;100.00;150.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2304;1557;goggles;2021-03-04 18:06:17;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2305;1558;duvet;2021-03-04 18:13:09;No;1400.00;2300.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2306;1559;duvet;2021-03-04 18:15:34;No;1400.00;2300.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2307;1559;Big Dispenser;2021-03-04 18:15:34;Yes;4200.00;6000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2308;1560;double wall thermo;2021-03-04 18:46:09;No;850.00;1300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2309;1561;beautiful thermo;2021-03-05 12:31:40;Yes;700.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2310;1562;chair;2021-03-05 16:24:53;Yes;480.00;580.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2311;1563;small;2021-03-05 17:42:55;Yes;190.00;250.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2312;1564;mabati coluored;2021-03-05 18:07:45;Yes;38.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2313;1564;feeding forks;2021-03-05 18:07:45;Yes;8.00;20.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2314;1564;Feeding kzh;2021-03-05 18:07:45;Yes;10.00;20.00;5;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2315;1564;0rdinary kaulo plate;2021-03-05 18:07:45;Yes;34.00;50.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2316;1564;kenstar smallcup;2021-03-05 18:07:45;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2317;1565;kenstar small;2021-03-05 19:13:17;Yes;30.00;55.00;40;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2318;1565;short servingspoon;2021-03-05 19:13:17;Yes;35.00;80.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2319;1566;belts;2021-03-05 19:19:23;Yes;50.00;100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2320;1566;pearl;2021-03-05 19:19:23;Yes;30.00;50.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2321;1567;table cover big;2021-03-06 14:53:38;Yes;130.00;180.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2322;1567;83095 mellaplate;2021-03-06 14:53:38;Yes;75.00;125.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2323;1568;salt shaker;2021-03-06 18:21:32;Yes;60.00;80.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2324;1569;double rack;2021-03-06 18:44:55;Yes;650.00;900.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2325;1570;sundabest s plate;2021-03-06 19:23:54;Yes;134.00;175.00;6;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2326;1570;umb 18;2021-03-06 19:23:55;Yes;180.00;250.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2327;1570;small door mats;2021-03-06 19:23:55;Yes;160.00;250.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2328;1570;kenstar small;2021-03-06 19:23:55;Yes;30.00;55.00;24;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2329;1571;big ball;2021-03-07 13:30:21;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2330;1572;multicolour plastic;2021-03-07 14:29:48;Yes;25.00;50.00;4;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2331;1573;uteo big;2021-03-07 17:07:26;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2332;1574;food flask;2021-03-07 17:24:18;Yes;1000.00;1500.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2333;1574;sport flask;2021-03-07 17:24:18;Yes;600.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2334;1575;Serviet holder small;2021-03-07 17:33:19;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2335;1575;kichungi 3;2021-03-07 17:33:19;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2336;1576;diva;2021-03-07 17:46:40;Yes;142.00;200.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2337;1577;diva;2021-03-07 17:47:36;Yes;142.00;200.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2338;1578;double wall thermo;2021-03-07 18:59:50;Yes;850.00;1300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2339;1579;3 in one blender;2021-03-07 19:12:41;Yes;2800.00;3700.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2340;1580;0.5l thermos;2021-03-07 19:27:16;Yes;500.00;800.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2341;1580;Small Bottle;2021-03-07 19:27:16;Yes;180.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2342;1581;kenstar smallcup;2021-03-10 09:37:38;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2343;1581;Odinary smallthermos;2021-03-10 09:37:38;Yes;290.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2344;1581;shaker;2021-03-10 09:37:38;Yes;17.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2345;1582;plastic sieve;2021-03-10 09:51:27;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2346;1583;mwiko;2021-03-10 11:18:10;Yes;20.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2347;1584;kenstar smallcup;2021-03-10 19:17:11;Yes;275.00;350.00;2;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2348;1585;plastic sieve;2021-03-10 19:18:52;Yes;50.00;100.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2349;1586;nice green plate;2021-03-11 09:34:43;Yes;65.00;120.00;12;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2350;1587;scrubber;2021-03-11 12:50:45;Yes;30.00;50.00;2;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2351;1588;Odinary bigthermos;2021-03-11 16:38:26;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2352;1589;duvet;2021-03-11 17:20:42;Yes;1400.00;2300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2353;1590;Jumping rope biggest;2021-03-11 18:10:15;Yes;70.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2354;1591;short servingspoon;2021-03-11 19:24:17;Yes;35.00;80.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2355;1592;kenstar small;2021-03-14 15:23:10;Yes;30.00;55.00;6;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2356;1592;kichungi 3;2021-03-14 15:23:10;Yes;8.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2357;1592;ordinary knife;2021-03-14 15:23:10;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2358;1593;fibre tray;2021-03-14 15:27:01;Yes;130.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2359;1594;kid goggles;2021-03-14 16:26:39;Yes;25.00;50.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2360;1595;sponge scrubber;2021-03-14 18:04:35;Yes;15.00;30.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2361;1595;net patterned;2021-03-14 18:04:35;Yes;180.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2362;1596;kenstar smallcup;2021-03-14 18:33:17;Yes;275.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2363;1597;tycoon;2021-03-14 18:55:00;Yes;400.00;550.00;3;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2364;1598;kitchen small Knives;2021-03-14 19:58:49;Yes;80.00;120.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2365;1599;kitchen;2021-03-15 16:16:35;Yes;80.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2366;1599;glass jugs;2021-03-15 16:16:35;Yes;250.00;350.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2367;1600;big ball;2021-03-15 20:01:11;Yes;200.00;300.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2368;1600;sport flask;2021-03-15 20:01:11;Yes;600.00;1000.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2369;1601;teaspoon;2021-03-15 20:15:37;Yes;10.00;20.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2370;1602;medium ball;2021-03-17 19:48:44;Yes;100.00;200.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2371;1603;Odinary bigthermos;2021-03-17 19:50:06;Yes;350.00;450.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2372;1603;kamba;2021-03-17 19:50:06;Yes;70.00;150.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2373;1604;belts;2021-03-17 19:53:53;Yes;50.00;100.00;1;\N;\N;\N;7;\N;0;Cash Sale;\N;\N
+2374;1605;soft throw;2021-03-18 18:36:59;No;550.00;1000.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2375;1605;soft small;2021-03-18 18:36:59;No;650.00;800.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2376;1606;glss jug 35;2021-03-20 13:17:52;No;280.00;350.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;\N
+2377;1607;Tusker Can;2021-09-01 13:33:34;No;180.00;240.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2378;1607;Tusker Cider;2021-09-01 13:33:34;Yes;160.00;220.00;2;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2379;1607;Tusker Lite;2021-09-01 13:33:34;No;160.00;220.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2380;1608;Tusker Can;2021-09-01 13:49:25;No;180.00;240.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2381;1609;Tusker Cider;2021-09-01 13:51:08;Yes;160.00;220.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2382;1609;Tusker Lite;2021-09-01 13:51:08;Yes;160.00;220.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2383;1610;Guiness Can;2021-10-11 09:27:24;No;180.00;220.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2384;1611;Guiness Can;2021-10-11 09:32:16;No;180.00;220.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2385;1612;Guiness Can;2021-10-11 09:40:35;No;180.00;220.00;1;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00
+2386;1613;hand bag;2021-10-11 09:41:30;No;250.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;0.00
+2387;1613;monkey small;2021-10-11 09:41:30;No;250.00;400.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;0.00
+2388;1614;chondo;2021-11-19 13:30:48;No;700.00;900.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;0.00
+2389;1614;hand bag;2021-11-19 13:30:48;No;250.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;0.00
+2390;1614;monkey medium;2021-11-19 13:30:48;No;250.00;500.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;0.00
+2391;1614;monkey small;2021-11-19 13:30:48;Yes;250.00;400.00;1;\N;\N;\N;1;\N;0;Cash Sale;\N;0.00
+2392;1615;Guiness Can;2021-11-19 13:55:38;Yes;180.00;220.00;3;\N;\N;\N;1;\N;16;Cash Sale;\N;0.00

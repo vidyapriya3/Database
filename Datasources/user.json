@@ -1,0 +1,13 @@
+[ 
+{ 
+"UserName":"ngeresa",
+"Password":"1111",
+"Userlevel":"Administrator",
+"EmployeeId":1
+},
+{ 
+"UserName":"ongeri",
+"Password":"2890",
+"Userlevel":"CASHIER",
+"EmployeeId":7
+}]
